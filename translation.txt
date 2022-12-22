@@ -1,41 +1,33 @@
-main text: 0x19618 0x1D5A2 (separated by 0x2B 0x00)
-item names: 0x1D5C7 +0x20 0x1DBB7
-
-codepage 850 (DOS-Latin-1, "cp850" in python)
-# -> line break
-
-
-
 0x19618 0x199b6
-Ihr, die Ihr hier eintretet:#Lasst alle Hoffnung fahren!######Wir schreiben das Jahr 178 vor Christus. Ein grausamer Fluch liegt �ber unserem armen Mesopotamien. Hunger und Krankheit regieren das Zweistromland. Wir sind verzweifelt und selbst unser guter K�nig Baal ist am Ende seiner legend�ren Weisheit.#Der Grund f�r unser Ungl�ck liegt im Dunkeln. Die Alten erz�hlen schreckliche Legenden aus l�ngst vergangenen Tagen. Grausame G�tter in finsterer Unterwelt sind schuld am Elend uns'res Volkes, meinen sie.#Wir wissen es nicht.#Ich selbst heiss' Knorrli. Als K�chenjunge arbeit' ich am traurigen Hofe K�nig Baals. Das Abendopfer r�st' ich jeden Tag, und gestern fand ich - bei eben jener T�tigkeit - ein seltsam' Pergament im Bauche eines g�ldnen Fisches. Heut eil ich damit zum weisen Atargatis, dem Sternengucker an des K�nigs Hof. Vielleicht weiss der, was Knorrli fand in Neptuns g�t'ger Gabenpracht.##################
-Ye who enter here:#Abandon all hope!######The year is 178 before Christ. A terrible curse has befallen our poor Mesopotamia. Hunger and sickness rule the land between the two rivers. The people despair, and even our good King Baal has reached the end of his legendary wisdom.#The cause for our misfortune remains shrouded in darkness. The elders tell frightful tales from days long past. Cruel gods from a dark underworld are to be blamed for our people's woe, they say.#But we do not know.#As for me, I am called Knorrli. I work in the kitchens of King Baal's sorrowful court. I prepare the evening sacrifice every day, and there just yesterday I found a peculiar piece of parchment in the bowels of a golden fish. Today with haste I will take it to the sage Atargatis, the astronomer in the King's court. Mayhaps he can tell what Knorrli has found in Neptune's mercyful bounty.                             ##################
+Ihr, die Ihr hier eintretet:#Lasst alle Hoffnung fahren!######Wir schreiben das Jahr 178 vor Christus. Ein grausamer Fluch liegt über unserem armen Mesopotamien. Hunger und Krankheit regieren das Zweistromland. Wir sind verzweifelt und selbst unser guter König Baal ist am Ende seiner legendären Weisheit.#Der Grund für unser Unglück liegt im Dunkeln. Die Alten erzählen schreckliche Legenden aus längst vergangenen Tagen. Grausame Götter in finsterer Unterwelt sind schuld am Elend uns'res Volkes, meinen sie.#Wir wissen es nicht.#Ich selbst heiss' Knorrli. Als Küchenjunge arbeit' ich am traurigen Hofe König Baals. Das Abendopfer rüst' ich jeden Tag, und gestern fand ich - bei eben jener Tätigkeit - ein seltsam' Pergament im Bauche eines güldnen Fisches. Heut eil ich damit zum weisen Atargatis, dem Sternengucker an des Königs Hof. Vielleicht weiss der, was Knorrli fand in Neptuns güt'ger Gabenpracht.##################
+Ye who enter here:#Abandon all hope!######The year is 178 before Christ. A terrible curse has befallen our poor Mesopotamia. Hunger and sickness rule the land between the two rivers. The people despair, and even our good king Baal has reached the end of his legendary wisdom.#The cause for our misfortune remains shrouded in darkness. The elders tell frightful tales from days long past. Cruel gods from a dark underworld are to be blamed for our people's woe, they say.#But we do not know.#As for me, I am called Knorrli. I work in the kitchens of king Baal's sorrowful court. I prepare the evening sacrifice every day, and there just yesterday I found a peculiar piece of parchment in the bowels of a golden fish. Today with haste I will take it to the sage Atargatis, the astronomer in the king's court. Mayhaps he can tell what Knorrli has found in Neptune's mercyful bounty.##################
 
 0x199b8 0x19c64
-Was bringst Du, Bub? Lass sehen.##Es geht die Sage, dass ein goldner Thunfisch das Geheimnis in sich trage, wie uns're arme Heimat von arger Not zu retten sei. Mir scheint, Du hast gefunden, was des Volkes Mund besang.#Doch weh! Geschrieben ist's in einer Schrift, die ich nicht lesen kann. Und wenn ich nicht kundig bin, so weiss ich nicht, wer's noch sein k�nnt im weiten alten Erdenrund.#Mein Knorrli, ich bin alt. Dein Arm jedoch ist jung und stark. Zieh aus! Denn in der grossen Welt vielleicht des R�tsels L�sung Deiner harrt.#Ich muss zum Abendopfer nun, die G�tter gn�dig stimmen. Leb wohl, mein Knorrli. Die Hoffnungen unsrer Heimat ruhn -##allein auf Dir.###################
-What did you bring, boy? Show me.##There is a legend, claiming that a golden tuna will contain the secret to save our poor country from its plight. It seems that you have found what has been foretold.#But oh my! It is written in a script that I cannot read. And if I lack the knowledge, then I do not know who else could read it on this whole wide Earth.#My Knorrli, I am old. You on the other hand are young and strong. Go forth! Somewhere out there in this world, a solution for this riddle of yours might be found.#I must tend to the evening sacrifice now, so that the gods may be mercyful. Fare well, my Knorrli. All our hopes -##rest only upon you.        ###################
+Was bringst Du, Bub? Lass sehen.##Es geht die Sage, dass ein goldner Thunfisch das Geheimnis in sich trage, wie uns're arme Heimat von arger Not zu retten sei. Mir scheint, Du hast gefunden, was des Volkes Mund besang.#Doch weh! Geschrieben ist's in einer Schrift, die ich nicht lesen kann. Und wenn ich nicht kundig bin, so weiss ich nicht, wer's noch sein könnt im weiten alten Erdenrund.#Mein Knorrli, ich bin alt. Dein Arm jedoch ist jung und stark. Zieh aus! Denn in der grossen Welt vielleicht des Rätsels Lösung Deiner harrt.#Ich muss zum Abendopfer nun, die Götter gnädig stimmen. Leb wohl, mein Knorrli. Die Hoffnungen unsrer Heimat ruhn -##allein auf Dir.###################
+What did you bring, lad? Show me.##There is a legend, claiming that a golden tuna will contain the secret to save our poor country from its plight. It seems that you have found what has been foretold.#But oh my! It is written in a script that I cannot read. And if I lack the knowledge, then I do not know who else could read it on this whole wide Earth.#My Knorrli, I am old. You on the other hand are young and strong. Go forth! Somewhere out there in this world, a solution for this riddle of yours might be found.#I must tend to the evening sacrifice now, so that the gods may be mercyful. Fare well, my Knorrli. All our hopes -##rest only upon you.###################
 
 0x19c66 0x19fba
-Oh edler Fremdling, Du sollst erfahren, was des R�tsels von Atlantis L�sung ist:#Es gibt ein fernes G�terreich, Atlantis heisst's. Dort wohnt Gottvater Creon, der Schutzherr uns'res Zweistromlandes. Die finst're F�rstin Istar verfluchte Creon, zerst�rte seinen Sitz und stahl des Herrschers Kron'.#Wer diesen Fluch von Creon nimmt, errettet unser Zweistromland.#Dazu musst Du, oh edler Fremdling, dem G�ttervater diesen Trank kredenzen: In eine gold'ne Schale gibst Du Feentr�nen, Totenpilz und Lebenswurz. Mit einem L�ffel aus des Einhorns Horn gib Himmelskraut dazu und koche dann den ganzen Trank. Gew�rzt wird mit zwei frisch gefangenen Fischen. Trinkt Creon dies, weicxht augenblicklich alle Pein von uns'rem lieben Zweistromland. Zu guter letzt setz' dem geweihten Haupt die Krone auf und bis in alle Ewigkeit wird Ruhm Dein Wegbegleiter sein.===
-Oh noble stranger, you shall now learn the answer to the riddle of Atlantis:#Far away, there is a realm of gods, called Atlantis. There lives godfather Creon, protector of our home country Mesopotamia. The evil goddess Istar has cursed Creon, destroyed his seat and stolen the ruler's crown.#Whoever can lift the curse off Creon will save our dear Mesopotamia.#To lift the curse, you must give the following concoction to him: Into a golden chalice put fairy tears, death mushroom, and liferoot. With a spoon carved from a unicorn's horn, add some skyherbs and boil the mixture. Spice it with two freshly caught fish. When Creon drinks this potion, all woe will vanish from our beloved home of Mesopotamia. Finally, put the godly crown on the godfather's head, and fame and glory shall accompany you for all eternity.                                ===
+Oh edler Fremdling, Du sollst erfahren, was des Rätsels von Atlantis Lösung ist:#Es gibt ein fernes Göterreich, Atlantis heisst's. Dort wohnt Gottvater Creon, der Schutzherr uns'res Zweistromlandes. Die finst're Fürstin Istar verfluchte Creon, zerstörte seinen Sitz und stahl des Herrschers Kron'.#Wer diesen Fluch von Creon nimmt, errettet unser Zweistromland.#Dazu musst Du, oh edler Fremdling, dem Göttervater diesen Trank kredenzen: In eine gold'ne Schale gibst Du Feentränen, Totenpilz und Lebenswurz. Mit einem Löffel aus des Einhorns Horn gib Himmelskraut dazu und koche dann den ganzen Trank. Gewürzt wird mit zwei frisch gefangenen Fischen. Trinkt Creon dies, weicxht augenblicklich alle Pein von uns'rem lieben Zweistromland. Zu guter letzt setz' dem geweihten Haupt die Krone auf und bis in alle Ewigkeit wird Ruhm Dein Wegbegleiter sein.===
+Oh noble stranger, you shall now learn the answer to the riddle of Atlantis:#Far away, there is a realm of gods, called Atlantis. There lives godfather Creon, protector of our home country Mesopotamia. The evil goddess Istar has cursed Creon, destroyed his seat and stolen the ruler's crown.#Whoever can lift the curse off Creon will save our dear Mesopotamia.#To lift the curse, you must give the following concoction to him: Into a golden chalice put fairy tears, death mushroom, and liferoot. With a spoon carved from a unicorn's horn, add some skyherbs and boil the mixture. Spice it with two freshly caught fish. When Creon drinks this potion, all woe will vanish from our beloved home of Mesopotamia. Finally, put the godly crown on the godfather's head, and fame and glory shall accompany you for all eternity.===
 
 0x19fbc 0x1a1e7
-Ich bin gescheitert. Mein Ende naht. Wenn je ein Mensch dies liest bin ich schon l�ngst nicht mehr.=#Deshalb: H�rt diese Warnung. Kein Lebender setzt je den Fuss in Istars finstres Reich. Zu m�chtig ist Charon, ihr d�strer W�chter. In jugendlichem �berschwang versuchte ich den Grausamen. Und seht mich heute an.=#Haltet euch fern von seinem Tempel. Stellt nie wieder das zerschmetterte Kreuz auf seinen Altar, sonst steigt er zur�ck, hinauf ans fahle Licht des schwindenden Mondes. Und dann Gnade eurer armen Seele!===#Flieht, so lange ihr noch k�nnt!===
-I have failed. My end is nigh. If ever anyone should read this, then I have already left this world.=#So hear my warning. No mortal shall set foot in Istar's dark realm. Too powerful is her guardian Charon. In my youthful arrogance, I challenged this cruel being. And now behold of what came of it.=#Stay well away from his temple. Never again shall anyone set the broken cross onto his altair, or he will rise again, into the pale light of the waning moon. And then may the gods grant mercy to your souls!===#Flee, while you still can!                ===
+Ich bin gescheitert. Mein Ende naht. Wenn je ein Mensch dies liest bin ich schon längst nicht mehr.=#Deshalb: Hört diese Warnung. Kein Lebender setzt je den Fuss in Istars finstres Reich. Zu mächtig ist Charon, ihr düstrer Wächter. In jugendlichem Überschwang versuchte ich den Grausamen. Und seht mich heute an.=#Haltet euch fern von seinem Tempel. Stellt nie wieder das zerschmetterte Kreuz auf seinen Altar, sonst steigt er zurück, hinauf ans fahle Licht des schwindenden Mondes. Und dann Gnade eurer armen Seele!===#Flieht, so lange ihr noch könnt!===
+I have failed. My end is nigh. If ever anyone should read this, then I have already left this world.=#So hear my warning. No mortal shall set foot in Istar's dark realm. Too powerful is her guardian Charon. In my youthful arrogance, I challenged this cruel being. And now behold of what came of it.=#Stay well away from his temple. Never again shall anyone set the broken cross onto his altair, or he will rise again, into the pale light of the waning moon. And then may the gods grant mercy to your souls!===#Flee, while you still can!===
 
 0x1a1e9 0x1a7f3
-Und so geschah es dann auch: Creon kehrte zur�ck auf seinen g�ttlichen Thron (eine bescheidene, aber sehr angenehme 5-Wolken Villa in der N�he des Morgensterns).#In Mesopotamien zog das Gl�ck wieder ein. Das Reich des Baal bl�hte in alter Herrlichkeit und die Menschen lebten lange und zufrieden.#Und Knorrli?##Als Dank f�r seine Hilfe durfte er sich von Creon etwas w�nschen. Und er bat ihn um die Wolkenstadt. Denn seitdem Meteosat die Stadt verlassen hatte, zog diese verwaist ihre weite Bahn.#Am Hof des Baal wurde Knorrli triumphal empfangen. Baal ernannte ihn zu seinem Leibkoch. Dank seiner besonderen Zutaten aus der Wolkenstadt, dank Nektar, Ambrosia und Himmelskraut, war seine Kochkunst bald in der gesamten antiken Welt ber�hmt und gesucht. Als Kr�nung erhielt er als einziger Koch der Antike f�nf Sterne in Cleopatras kleinem Tavernen-#f�hrer.#Und schliesslich ist noch zu berichten von etwas schier unglaublichem: Knorrli hatte doch einen grossen Schluck des k�niglichen Lebenselixiers zu sich genommen, bevor er in den Creon-Palast abtauchte; dank diesem Trank altert unser Held nicht mehr. Und damit nicht genug: Er wurde unsterblich.#Als weltber�hmter Koch verw�hnte er nach dem Tode Baals noch manch gekr�ntes Haupt. F�rstinnen und Prinzen, K�nige, P�pste und Maharadschas genossen seine superben K�nste. Nach der franz�sichen Revolution schliesslich beschloss er, auch f�r die Normal-#sterblichen t�tig zu werden. Und seitdem ist Knorrli ein gern gesehener Gast in ungez�hlten K�chen auf der ganzen Welt. . .###################
+Und so geschah es dann auch: Creon kehrte zurück auf seinen göttlichen Thron (eine bescheidene, aber sehr angenehme 5-Wolken Villa in der Nähe des Morgensterns).#In Mesopotamien zog das Glück wieder ein. Das Reich des Baal blühte in alter Herrlichkeit und die Menschen lebten lange und zufrieden.#Und Knorrli?##Als Dank für seine Hilfe durfte er sich von Creon etwas wünschen. Und er bat ihn um die Wolkenstadt. Denn seitdem Meteosat die Stadt verlassen hatte, zog diese verwaist ihre weite Bahn.#Am Hof des Baal wurde Knorrli triumphal empfangen. Baal ernannte ihn zu seinem Leibkoch. Dank seiner besonderen Zutaten aus der Wolkenstadt, dank Nektar, Ambrosia und Himmelskraut, war seine Kochkunst bald in der gesamten antiken Welt berühmt und gesucht. Als Krönung erhielt er als einziger Koch der Antike fünf Sterne in Cleopatras kleinem Tavernen-#führer.#Und schliesslich ist noch zu berichten von etwas schier unglaublichem: Knorrli hatte doch einen grossen Schluck des königlichen Lebenselixiers zu sich genommen, bevor er in den Creon-Palast abtauchte; dank diesem Trank altert unser Held nicht mehr. Und damit nicht genug: Er wurde unsterblich.#Als weltberühmter Koch verwöhnte er nach dem Tode Baals noch manch gekröntes Haupt. Fürstinnen und Prinzen, Könige, Päpste und Maharadschas genossen seine superben Künste. Nach der französichen Revolution schliesslich beschloss er, auch für die Normal-#sterblichen tätig zu werden. Und seitdem ist Knorrli ein gern gesehener Gast in ungezählten Küchen auf der ganzen Welt. . .###################
 And so it came to pass: Creon returned to his godly throne (a humble, but very comfortable 5-cloud mansion near the morning star).#Good fortune returned to Mesopotamia. The realm of Baal returned to its former glory, and the people lived long and happy lives.#And Knorrli?##To thank him for his help, Creon granted him a wish. TODO
 
-0x1a7f5 0x1a855
-Und Knorrli �ffnet mit dem Code, den ihm der Papagei verraten hat, die Geheimt�re zum Archiv...
+0x1a7f6 0x1a855
+Und Knorrli öffnet mit dem Code, den ihm der Papagei verraten hat, die Geheimtüre zum Archiv...
 And with the code he got from the parrot, Knorrli opens the secret door to the archives...
 
 0x1a857 0x1a89d
-Die Buchstaben des geheimnisvollen Dokuments beginnen sich aufzul�sen!
+Die Buchstaben des geheimnisvollen Dokuments beginnen sich aufzulösen!
 The letters of the mysterious document are beginning to dissolve!
 
 0x1a89f 0x1a969
-Hier haust Tiamat, das Sumpfmonster, das Knorrli beim Betreten seines Reviers sofort entdeckt.=#Schn�ffelnd sucht es den vor Schreck erstarrten Knorrli ab, bis es den Monsterpilz findet.===###Dann...===
+Hier haust Tiamat, das Sumpfmonster, das Knorrli beim Betreten seines Reviers sofort entdeckt.=#Schnüffelnd sucht es den vor Schreck erstarrten Knorrli ab, bis es den Monsterpilz findet.===###Dann...===
 Here lives Tiamat, the swamp monster, who noticed Knorrli immediately when he entered its territory.=# TODO TODO TODO
 
 0x1a96b 0x1a9cc
@@ -44,31 +36,31 @@ And with the secret recipe in hand, Knorrli brews the potion that can save Creon
 
 0x1a9ce 0x1aa01
 Die Zutaten zum Zaubertrank sind nicht komplett.===
-Some ingredients for the potion are missing.    ===
+Some ingredients for the potion are missing.===
 
 0x1aa03 0x1aa0b
 - Piep -
-- Peep -
+~Peep~
 
 0x1aa0d 0x1aa17
-- Kr�chz -
-- Cawcaw -
+- Krächz -
+~Cacaw~
 
 0x1aa19 0x1aa21
 - Oink -
-- Oink -
+~Oink~
 
 0x1aa23 0x1aa2c
 - Blurp -
-- Blurp -
+~Blurp~
 
 0x1aa2e 0x1aa36
-- B�rk -
-- Bork -
+- Börk -
+~Bork~
 
 0x1aa38 0x1aa41
 - Hipps -
-- Hick -
+~Hick~
 
 0x1aa43 0x1aa53
 Na Du, Piepmatz!
@@ -95,30 +87,30 @@ Na, geht's besser?
 Feel better now?
 
 0x1aafe 0x1ab24
-Selber Matz, hips!#Malber Setz, bl�rk!
+Selber Matz, hips!#Malber Setz, blörk!
 Birdy yourself!#Hick, borp!
 
 0x1ab26 0x1ab46
 Klar doch, was willst Du wissen?
-Sure, what do you want to know?
+Sure, what do you wanna know?
 
 0x1ab48 0x1ab5f
-�h, hab' ich vergessen.
+Öh, hab' ich vergessen.
 Uhm, I forgot.
 
 0x1ab61 0x1aba6
-Ehem, vor Gebrauch sch�tteln und dann dreimal t�glich ein L�ffelchen.
+Ehem, vor Gebrauch schütteln und dann dreimal täglich ein Löffelchen.
 Ahem, shake well before use, and take three spoons full every day.
 
 0x1aba8 0x1ac0a
-Ce num�ro n'est pas valable.=#Veuillez consulter la liste des abonn�s.==#Und jetzt hab ich Hunger.
-Ce num�ro n'est pas valable.=#Veuillez consulter la liste des abonn�s.==#Now I'm hungry.
+Ce numéro n'est pas valable.=#Veuillez consulter la liste des abonnés.==#Und jetzt hab ich Hunger.
+Ce numéro n'est pas valable.=#Veuillez consulter la liste des abonnés.==#Now I'm hungry.
 
 0x1ac0c 0x1ad13
-Klar doch, das weckt den L�mmergeier in mir.==#Aber mein Hirni ist immer noch blank.===#Lediglich ein N�mmerchen dreht seine Runden an meinem geistigen Horizont: 2794.===#Aber was das soll, weiss ich auch nicht.#Sorry.#Aber man wird eben auch nicht j�nger.#Blurp.
+Klar doch, das weckt den Lämmergeier in mir.==#Aber mein Hirni ist immer noch blank.===#Lediglich ein Nümmerchen dreht seine Runden an meinem geistigen Horizont: 2794.===#Aber was das soll, weiss ich auch nicht.#Sorry.#Aber man wird eben auch nicht jünger.#Blurp.
 
 0x1ad15 0x1ad45
-Die Geheimzahl der Geheimt�r lautet: 2794.#Hips!
+Die Geheimzahl der Geheimtür lautet: 2794.#Hips!
 The code to the secret door is: 2794.#Hic!
 
 0x1ad47 0x1ad58
@@ -130,7 +122,7 @@ Sozusagen. Ehrlich gesagt stecken wir ziemlich in der Klemme.
 You could say that. Honestly we are in quite a pickle.
 
 0x1ad99 0x1ad9e
-�h...
+Äh...
 Uhm..
 
 0x1ada0 0x1ade6
@@ -145,11 +137,11 @@ Bist Du nicht das Ekel, das immer die Mausefallen in die Speisekammer stellt?
 Aren't you the jerk who always sets up mouse traps in the pantry?
 
 0x1ae6f 0x1af11
-Ja, ja, und jetzt willst Du, dass ich Dir helfe.#H�r zu. Ich schlage Dir ein Gesch�ft vor: Du l�sst in Zukunft das Mausen und ich helfe Dir daf�r hier raus. Okay?
+Ja, ja, und jetzt willst Du, dass ich Dir helfe.#Hör zu. Ich schlage Dir ein Geschäft vor: Du lässt in Zukunft das Mausen und ich helfe Dir dafür hier raus. Okay?
 Yeah, yeah, and now you want my help.#Listen, how about a deal: You leave us mice alone, and I will help you get out of here. Okay?
 
 0x1af13 0x1af5f
-Bestens. Dann versuch doch mal die Geheimt�r in der linken Wand.#Viel Gl�ck.
+Bestens. Dann versuch doch mal die Geheimtür in der linken Wand.#Viel Glück.
 
 0x1af61 0x1af6d
 Hallo Teddy!
@@ -163,13 +155,14 @@ Kuckuck?
 
 0x1af95 0x1afa1
 Werte Damen!
+My ladies!
 
 0x1afa3 0x1afae
 Summ, Summ?
 Buzz, buzz?
 
 0x1afb0 0x1afcc
-Ist die K�nigin zu sprechen?
+Ist die Königin zu sprechen?
 Can I speak to the queen?
 
 0x1afce 0x1afda
@@ -177,35 +170,35 @@ Vielen Dank!
 Thank you!
 
 0x1afdc 0x1b058
-Verzieh' Dich, Jungchen! Wir haben keine Zeit zum plaudern.#Noch nie was vom weltber�hmten Bienenfleiss geh�rt, Du Faultier?
+Verzieh' Dich, Jungchen! Wir haben keine Zeit zum plaudern.#Noch nie was vom weltberühmten Bienenfleiss gehört, Du Faultier?
 
 0x1b05a 0x1b08c
-Lass die Faxen, B�rschchen, wir haben zu arbeiten!
+Lass die Faxen, Bürschchen, wir haben zu arbeiten!
 
 0x1b08e 0x1b144
-Die ist besch�ftigt. Allf�llige Anfragen oder Beschwerden sind in dreifacher Ausf�hrung zu richten an:== den mesopotamischen Imkerverein, Ortsgruppe Feenwald.==#Und jetzt schwirr ab!
+Die ist beschäftigt. Allfällige Anfragen oder Beschwerden sind in dreifacher Ausführung zu richten an:== den mesopotamischen Imkerverein, Ortsgruppe Feenwald.==#Und jetzt schwirr ab!
 
 0x1b146 0x1b1d3
-Oh, seht mal: echter Papageienzucker!==#Das ist aber nett, Jungchen. He M�dels, schiebt dem Goldbuben zum Dank mal 'ne Wabe zum Kosten r�ber!
+Oh, seht mal: echter Papageienzucker!==#Das ist aber nett, Jungchen. He Mädels, schiebt dem Goldbuben zum Dank mal 'ne Wabe zum Kosten rüber!
 
 0x1b1d5 0x1b227
-Gern geschehen Sch�tzchen. Mit Zucker bist Du uns immer wilkommen. Hasta la vista!
+Gern geschehen Schätzchen. Mit Zucker bist Du uns immer wilkommen. Hasta la vista!
 
 0x1b229 0x1b2f2
-Oh edler Ritter! Tausend Dank, dass ihr den Fluch von mir genommen habt.==#Und doch, mein Herz ist schwer. Denk ich ans d�st're Schicksal meines lieben Zweistromlands m�cht' ich am liebsten sterben.===
+Oh edler Ritter! Tausend Dank, dass ihr den Fluch von mir genommen habt.==#Und doch, mein Herz ist schwer. Denk ich ans düst're Schicksal meines lieben Zweistromlands möcht' ich am liebsten sterben.===
 
 0x1b2f4 0x1b300
 - Schluchz -
-- Sob -
+~Sob~
 
 0x1b302 0x1b30d
 - Schnief -
 
 0x1b30f 0x1b43e
-Oh edler Held, hab' tausend Dank.=#Was habe ich den vermaledeiten Kamm in meiner Monsterh�hle gesucht.=# Schliesslich will man doch auch als Monster nett aussehen.=#Nimm zum Dank dies: diese M�tze hier sch�tzt Dich vor b�sem Blick, vor Fl�chen und vor Parkbussen.==#Viel Gl�ck mein Held und lebe wohl.==
+Oh edler Held, hab' tausend Dank.=#Was habe ich den vermaledeiten Kamm in meiner Monsterhöhle gesucht.=# Schliesslich will man doch auch als Monster nett aussehen.=#Nimm zum Dank dies: diese Mütze hier schützt Dich vor bösem Blick, vor Flüchen und vor Parkbussen.==#Viel Glück mein Held und lebe wohl.==
 
 0x1b440 0x1b459
-Madame, geh�rt der Ihnen?
+Madame, gehört der Ihnen?
 Madam, is this yours?
 
 0x1b45b 0x1b46b
@@ -213,37 +206,40 @@ Im Wald, Madame.
 In the woods.
 
 0x1b46d 0x1b52a
-Nan�?#Ist mein Fluch schon wieder defekt?#Jetzt habe ich das Ding doch gerade erst zum grossen Service gegeben.==#Schlamperei, sowas!#Jetzt wird die Werkstatt aber was zu h�ren bekommen!===
+Nanü?#Ist mein Fluch schon wieder defekt?#Jetzt habe ich das Ding doch gerade erst zum grossen Service gegeben.==#Schlamperei, sowas!#Jetzt wird die Werkstatt aber was zu hören bekommen!===
 
 0x1b52c 0x1b59b
 Oh, mein Goldschatz! Komm zu Mami. Hast Du dich wieder verlaufen?#Wo hast Du denn meinen Sebastian gefunden?===
 
 0x1b59d 0x1b75a
-So ist's brav, Bub!#Ich hab ja nur einen schlechten Ruf zu verlieren, aber auch auf den ist man halt stolz. Und geizig soll mich keiner nennen.#Deshalb: Nimm zum Dank diese Schuhe. Sie machen Dich unsichtbar f�r die D�monen der Unterwelt, falls Du je hinab ins Reich der Schatten steigen solltest! Allerdings, sei vorsichtig...#Meine Werkstatt ist ja nicht die beste, Du hast's eben selbst gesehen.#Aber genug gequatscht, so long mein Cowboy!===
+So ist's brav, Bub!#Ich hab ja nur einen schlechten Ruf zu verlieren, aber auch auf den ist man halt stolz. Und geizig soll mich keiner nennen.#Deshalb: Nimm zum Dank diese Schuhe. Sie machen Dich unsichtbar für die Dämonen der Unterwelt, falls Du je hinab ins Reich der Schatten steigen solltest! Allerdings, sei vorsichtig...#Meine Werkstatt ist ja nicht die beste, Du hast's eben selbst gesehen.#Aber genug gequatscht, so long mein Cowboy!===
 
 0x1b75c 0x1b7af
 He! Moment mal Du Wicht! Du hast in meinem schmucken Eigenheim nichts zu suchen!===
 
 0x1b7b1 0x1b7c1
-Fliege gef�llig?
+Fliege gefällig?
 
 0x1b7c3 0x1b7e2
 Bist Du ein verzauberter Prinz?
+Are you an enchanted prince?
 
 0x1b7e4 0x1b7eb
 Ach ja?
+Really?
 
 0x1b7ed 0x1b7f5
 Quatsch!
+Hogwash!
 
 0x1b7f7 0x1b81e
-Dann erz�hl mir doch mal ein Geheimnis.
+Dann erzähl mir doch mal ein Geheimnis.
 
 0x1b820 0x1b847
-B�h, bloss nicht!#Ich steh auf Tr�ffel.
+Bäh, bloss nicht!#Ich steh auf Trüffel.
 
 0x1b849 0x1b8b7
-Nee, f�r diese billigen Tricks sind meine Kumpels zust�ndig, die Fr�sche.#Ich geh�re zum lokalen Geheimdienst.
+Nee, für diese billigen Tricks sind meine Kumpels zuständig, die Frösche.#Ich gehöre zum lokalen Geheimdienst.
 
 0x1b8b9 0x1b8ca
 Ja. Scharf, gell?
@@ -252,13 +248,13 @@ Ja. Scharf, gell?
 He, nur nicht frech werden!
 
 0x1b8e9 0x1b95e
-Nun, ich bin noch in der Ausbildung. Ich kenn nur den Trick mit dem Sesam.#Und mehr darf ich Dir auch nicht erz�hlen.
+Nun, ich bin noch in der Ausbildung. Ich kenn nur den Trick mit dem Sesam.#Und mehr darf ich Dir auch nicht erzählen.
 
 0x1b960 0x1bab0
-Mein lieber Schwan!#Das war knapp.==#Ich hab mich schon als Einhorn-Entrec�te mit Morcheln in der Hexenpfanne brutzeln sehen.==#Schnappt mich die alte Schachtel doch glatt, als ich im Feenwald dieser bezaubernden Keinhorn-Dame den Hof mache. So'n Pech.==#Hier, zum Dank kannste mein Horn haben.#Die Dinger sind eh nicht mehr in Mode.===
+Mein lieber Schwan!#Das war knapp.==#Ich hab mich schon als Einhorn-Entrecôte mit Morcheln in der Hexenpfanne brutzeln sehen.==#Schnappt mich die alte Schachtel doch glatt, als ich im Feenwald dieser bezaubernden Keinhorn-Dame den Hof mache. So'n Pech.==#Hier, zum Dank kannste mein Horn haben.#Die Dinger sind eh nicht mehr in Mode.===
 
 0x1bab2 0x1bacf
-Geh�rst Du hier zum Personal?
+Gehörst Du hier zum Personal?
 
 0x1bad1 0x1bae8
 Bist Du auch ein Geist?
@@ -270,52 +266,61 @@ Wo geht's denn hier zur Unterwelt?
 Klar, Friedhofsbeamte auf Lebenszeit, Lohnklasse F, Mitglied der GGGG (Gewerkschaft der Gruben- und Gruftgeister), rentenversichert.#Noch Fragen?===
 
 0x1bba4 0x1bc6b
-Nee, von Haus aus bin ich eigentlich Suppenhuhn.#Aber leider hatte ich da diesen kleinen Zusammenstoss mit dem bl�den Hexenfluch.==#Jetzt bin ich halt Friedhofs-Fledermaus. Auch nicht so schlecht.===
+Nee, von Haus aus bin ich eigentlich Suppenhuhn.#Aber leider hatte ich da diesen kleinen Zusammenstoss mit dem blöden Hexenfluch.==#Jetzt bin ich halt Friedhofs-Fledermaus. Auch nicht so schlecht.===
 
 0x1bc6d 0x1bc91
 Das musst Du schon Charon fragen.===
+You'll have to ask Charon.===
 
 0x1bc93 0x1be32
-Das war jetzt aber nett, mit Dir zu Plaudern. Dazu komm ich kaum noch seitdem ich den H�hnerhof hinter mir lassen musste.#Lebende sind hier �usserst selten. Und diese verdammten Zombies sind so verstockt.==#Deshalb hier noch ein Tip zum Schluss: Wenn Du das Charon-Kreuz gefunden hast steht Dir des D�mons Tempel offen. Doch vorsicht: Der Kerl wohnt nicht gerade im besten Viertel unserer Totenstadt. Viel Gl�ck.===
+Das war jetzt aber nett, mit Dir zu Plaudern. Dazu komm ich kaum noch seitdem ich den Hühnerhof hinter mir lassen musste.#Lebende sind hier äusserst selten. Und diese verdammten Zombies sind so verstockt.==#Deshalb hier noch ein Tip zum Schluss: Wenn Du das Charon-Kreuz gefunden hast steht Dir des Dämons Tempel offen. Doch vorsicht: Der Kerl wohnt nicht gerade im besten Viertel unserer Totenstadt. Viel Glück.===
 
 0x1be34 0x1be4f
 Was willst Du, Sterblicher?
+What do you want, mortal?
 
 0x1be51 0x1beb1
-Du elender Wurm! Ewig r�sten in meinem finst'ren Feuer sollst Du.#Fahr zur H�lle, Sterblicher!==
+Du elender Wurm! Ewig rösten in meinem finst'ren Feuer sollst Du.#Fahr zur Hölle, Sterblicher!==
 
 0x1beb3 0x1bf7d
-Das ist aber nett, mein Kleiner. Hast Du Dein Sparschwein geschlachtet und dem guten Onkel Charon mitgebracht. Nein sowas!==#Zur Belohnung darfst Du auch mal H�llenlift fahren.#Komm, hier geht's lang.==
+Das ist aber nett, mein Kleiner. Hast Du Dein Sparschwein geschlachtet und dem guten Onkel Charon mitgebracht. Nein sowas!==#Zur Belohnung darfst Du auch mal Höllenlift fahren.#Komm, hier geht's lang.==
 
 0x1bf7f 0x1bfab
 Ich hab Euch etwas mitgebracht, Herr Charon.
+I brought you something, Mr. Charon.
 
 0x1bfad 0x1bfd4
 Ich muss zu Istar, lass mich passieren.
+I have business with Istar, let me in.
 
 0x1bfd6 0x1c02c
 Ich will dieses Game gewinnen, also versalz mir nicht die Suppe, Du ungehobelter Kerl.
 
 0x1c02e 0x1c04f
-Sei mir gn�dig, Sohn des Himmels!
+Sei mir gnädig, Sohn des Himmels!
+Have mercy on me, heavenly son!
 
 0x1c051 0x1c08e
-Ach! Und ich dachte schon, nur G�tter reisen per Luftpost.===
+Ach! Und ich dachte schon, nur Götter reisen per Luftpost.===
 
 0x1c090 0x1c1df
-Ich heisse Meteosat.#Eigenlich bin ich Meteorologe. Aber meine Prognosen haben nie gestimmt. Und nachdem Creon eines Tages f�rchterlich verregnet wurde, hat er mich hier hinauf verbannt.#Jetzt baue ich Nektar und Ambrosia f�r die G�tter an.#Ich darf erst wieder runter, wenn meine Prognosen besser sind.#Du kannst mir sicher helfen.===
+Ich heisse Meteosat.#Eigenlich bin ich Meteorologe. Aber meine Prognosen haben nie gestimmt. Und nachdem Creon eines Tages fürchterlich verregnet wurde, hat er mich hier hinauf verbannt.#Jetzt baue ich Nektar und Ambrosia für die Götter an.#Ich darf erst wieder runter, wenn meine Prognosen besser sind.#Du kannst mir sicher helfen.===
 
 0x1c1e1 0x1c200
 Was sind zum Beispiel 'Cumuli'?
+For example, what are 'cumuli'?
 
 0x1c202 0x1c219
 Und was ist der Monsun?
+And what is a monsoon?
 
 0x1c21b 0x1c22b
 Was ist Mistral?
+Explain Mistral?
 
 0x1c22d 0x1c242
 Und was sind Isobare?
+And what are isobars?
 
 0x1c244 0x1c2c0
 Nein, das stimmt nicht, das weiss ich. Wenn Du mir nicht helfen willst, dann zieh' Leine. Ich kann Dich hier nicht brauchen.
@@ -327,28 +332,28 @@ Vielen Dank. Das muss ich gleich aufschreiben gehen, sonst vergesse ich das wied
 Was ist denn das?
 
 0x1c339 0x1c389
-Hier, nimm soviel Du willst! Endlich kann ich auf die Erde zur�ck, tausend Dank.
+Hier, nimm soviel Du willst! Endlich kann ich auf die Erde zurück, tausend Dank.
 
 0x1c38b 0x1c3b9
-Moment, ich bin nur ein harmloser K�chenjunge.
+Moment, ich bin nur ein harmloser Küchenjunge.
 
 0x1c3bb 0x1c3c7
 Wer bist Du?
 
 0x1c3c9 0x1c3fe
-1) Nebelb�nke#2) eine Wolkenart#3) Sclechtwetterzonen
+1) Nebelbänke#2) eine Wolkenart#3) Sclechtwetterzonen
 
 0x1c400 0x1c449
 1) ein Sumpfgebiet#2) tropische Regen- und Trockenzeiten#3) ein Sturmtief
 
 0x1c44b 0x1c4ab
-1) ein kalter Nordwind in S�dfrankreich#2) ein tropischer Sturm#3) ein spanisches Wort f�r D�rre
+1) ein kalter Nordwind in Südfrankreich#2) ein tropischer Sturm#3) ein spanisches Wort für Dürre
 
 0x1c4ad 0x1c509
-Linien, die Zonen mit#1) gleichem Luftdruck#2) gleicher Temperatur#3) gleicher H�he anzeigen
+Linien, die Zonen mit#1) gleichem Luftdruck#2) gleicher Temperatur#3) gleicher Höhe anzeigen
 
 0x1c50b 0x1c594
-Das ist ein Barometer. Es zeigt Dir an, wie das Wetter wird. Du kannst es behalten, wenn Du mir einen Scheffel Himmelskraut �berl�sst.===
+Das ist ein Barometer. Es zeigt Dir an, wie das Wetter wird. Du kannst es behalten, wenn Du mir einen Scheffel Himmelskraut überlässt.===
 
 0x1c596 0x1c59e
 Tschilp!
@@ -373,25 +378,25 @@ Wo geht den hier der Bus nach Atlantis?
 Where can I take the bus to Atlantis?
 
 0x1c616 0x1c674
-Was heisst hier 'tschilp', bist Du noch ganz dicht? Dr�ck Dich gef�lligst etwas klarer aus.===
+Was heisst hier 'tschilp', bist Du noch ganz dicht? Drück Dich gefälligst etwas klarer aus.===
 
 0x1c676 0x1c69c
 Kannst Du Dich nicht klarer fassen?===
 
 0x1c69e 0x1c6f6
-Piep? H�ltst Du uns f�r bescheuert? Sprich gef�lligst normales mesopotamisch mit mir.===
+Piep? Hältst Du uns für bescheuert? Sprich gefälligst normales mesopotamisch mit mir.===
 
 0x1c6f8 0x1c72d
-Nee Du, f�r Anhalter hab' ich keinen Platz. Sorry.===
+Nee Du, für Anhalter hab' ich keinen Platz. Sorry.===
 
 0x1c72f 0x1c771
 Klar. Und mein Name ist Odysseus. Den Trick kenne ich, Spinner.===
 
 0x1c773 0x1c7c4
-Die n�chste Station liegt auf Krakatau, etwa 10000 Kilometer s�dlich von hier.===
+Die nächste Station liegt auf Krakatau, etwa 10000 Kilometer südlich von hier.===
 
 0x1c7c6 0x1c873
-Tja, jetzt sieht die Sache schon besser aus. F�r spendable Menschen habe ich immer noch ein Pl�tzchen frei. Also, fasten your seat belt, ich mehme Dich mit nach Atlantis.===
+Tja, jetzt sieht die Sache schon besser aus. Für spendable Menschen habe ich immer noch ein Plätzchen frei. Also, fasten your seat belt, ich mehme Dich mit nach Atlantis.===
 
 0x1c875 0x1c895
 Kannst Du mich zu Creon bringen?
@@ -403,7 +408,7 @@ Denkst Du, ich schaffe das?
 Klar, wenn Du lange genug die Luft anhalten kannst. Der alte Knabe schlummert ziemlich tief unten.===
 
 0x1c91b 0x1c9b0
-Ehrlich gesagt: Nein.#Und helfen kann ich Dir da nicht. Der Delphin-#Transportverband verbietet ausdr�cklich Fahrten mit kurzatmigen Nichtkiemern.===
+Ehrlich gesagt: Nein.#Und helfen kann ich Dir da nicht. Der Delphin-#Transportverband verbietet ausdrücklich Fahrten mit kurzatmigen Nichtkiemern.===
 
 0x1c9b2 0x1c9f5
 Klar, mit dem Zaubertrank packst Du das locker. Komm, steig auf.===
@@ -412,242 +417,242 @@ Klar, mit dem Zaubertrank packst Du das locker. Komm, steig auf.===
 Puh, hab ich 'nen Kater. Das kommt wohl vom vielen Nektar saufen.#Und Zwerge sehe ich auch schon.===
 
 0x1ca5d 0x1ca8e
-Na pr�chtig. Boss wovon denn? Und wer bist Du?===
+Na prächtig. Boss wovon denn? Und wer bist Du?===
 
 0x1ca90 0x1cb60
-Donnerschlag nochmal, jetzt d�mmerts mir! Istar, die alte Tante, hat mich wohl reingelegt. Und ich hab mich �ber den Tisch ziehen lassen wie ein Frischling.#Und Mesopotamien? Wie steh'n denn da die Aktien?===
+Donnerschlag nochmal, jetzt dämmerts mir! Istar, die alte Tante, hat mich wohl reingelegt. Und ich hab mich über den Tisch ziehen lassen wie ein Frischling.#Und Mesopotamien? Wie steh'n denn da die Aktien?===
 
 0x1cb62 0x1cc60
-Tja, Istar hat nun mal keinen gr�nen Daumen. Aber damit ist ab heute Schluss mein Sohn, das versprech ich Dir. Lass uns unverz�glich aufbrechen. Noch heute will ich meine R�ckkehr im ganzen Land verk�nden. Und Du sollst mich an meiner Seite begleiten.===
+Tja, Istar hat nun mal keinen grünen Daumen. Aber damit ist ab heute Schluss mein Sohn, das versprech ich Dir. Lass uns unverzüglich aufbrechen. Noch heute will ich meine Rückkehr im ganzen Land verkünden. Und Du sollst mich an meiner Seite begleiten.===
 
 0x1cc62 0x1cceb
-Oh edler Herrscher des Himmels und der Erde! Der Bann ist gebrochen, der Fluch gel�st. Istar ist besiegt und Ihr seid wieder der Boss.===
+Oh edler Herrscher des Himmels und der Erde! Der Bann ist gebrochen, der Fluch gelöst. Istar ist besiegt und Ihr seid wieder der Boss.===
 
 0x1cced 0x1cd47
-Gestatten: Knorrli, K�chenbursche aus Uruk. Und Ihr seid Creon der oberste G�ttervater.===
+Gestatten: Knorrli, Küchenbursche aus Uruk. Und Ihr seid Creon der oberste Göttervater.===
 
 0x1cd49 0x1cda7
 Oh edler Herr, Dir sei's geklagt: Tod und Verderben regieren die matten Auen meiner Heimat.===
 
-0x1cda9 0x1ce88
-Pl�tzlich zerf�llt auch die Istar-Chronik in Knorrlis H�nden...=====##Ohne dieses Buch kann Knorrli die vor ihm liegenden Aufgaben nicht l�sen.#Es m�sste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+0x1cdaa 0x1ce88
+Plötzlich zerfällt auch die Istar-Chronik in Knorrlis Händen...=====##Ohne dieses Buch kann Knorrli die vor ihm liegenden Aufgaben nicht lösen.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
 
 0x1ce8a 0x1cf54
-Pl�tzlich zerf�llt das Sprachbuch der Tiere...=====##Ohne dieses Buch kann Knorrli nicht einmal das Geheimarchiv verlassen.#Es m�sste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+Plötzlich zerfällt das Sprachbuch der Tiere...=====##Ohne dieses Buch kann Knorrli nicht einmal das Geheimarchiv verlassen.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
 
 0x1cf56 0x1d06f
-Langsam zersetzen sich die Istar-Chronik und das Sprachbuch der Tiere...=====##Ohne diese B�cher kann Knorrli die vor ihm liegenden Aufgaben nicht l�sen, er kann nicht einmal das Geheimarchiv verlassen.#Es m�sste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+Langsam zersetzen sich die Istar-Chronik und das Sprachbuch der Tiere...=====##Ohne diese Bücher kann Knorrli die vor ihm liegenden Aufgaben nicht lösen, er kann nicht einmal das Geheimarchiv verlassen.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
 
 0x1d071 0x1d133
-Pl�tzlich zerf�llt das Sprachbuch der Tiere...=====##Ohne dieses Buch kann Knorrli nicht mehr mit den Tieren reden.#Es m�sste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+Plötzlich zerfällt das Sprachbuch der Tiere...=====##Ohne dieses Buch kann Knorrli nicht mehr mit den Tieren reden.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
 
 0x1d135 0x1d1bd
-Leider ist der B�r nicht zur Unterhaltung aufgelegt. Knorrli hat seine letzte Mahlzeit zubereitet. Der B�r verspeist ihn.##- Ende -=====
+Leider ist der Bär nicht zur Unterhaltung aufgelegt. Knorrli hat seine letzte Mahlzeit zubereitet. Der Bär verspeist ihn.##- Ende -=====
 Sadly the bear is not in the mood for a nice chat. TODO
 
 0x1d1bf 0x1d22e
-Knorrli wagt sich zu nahe an den B�ren heran, der, wie Knorrli nun merkt, grossen Hunger hat ...##- Ende -=====
+Knorrli wagt sich zu nahe an den Bären heran, der, wie Knorrli nun merkt, grossen Hunger hat ...##- Ende -=====
 
 0x1d230 0x1d32a
-Hier haust Tiamat, das Sumpfmonster, das Knorrli beim Betreten seines Reviers sofort entdeckt. Aug' in Aug' mit dem Monster sucht Knorrli verzweifelt nach einem Ausweg.====#Doch leider findet er nichts zum Bes�nftigen des Ungeheuers...##- Ende -=====
+Hier haust Tiamat, das Sumpfmonster, das Knorrli beim Betreten seines Reviers sofort entdeckt. Aug' in Aug' mit dem Monster sucht Knorrli verzweifelt nach einem Ausweg.====#Doch leider findet er nichts zum Besänftigen des Ungeheuers...##- Ende -=====
 
 0x1d32c 0x1d3e0
-Einer Hexe sollte man nicht ohne entsprechenden Schutz entgegentreten.==#Der Hexenfluch versteinert Knorrli sofort. Nun dient er als Mahnmal f�r k�nftige Besucher...##- Ende -=====
+Einer Hexe sollte man nicht ohne entsprechenden Schutz entgegentreten.==#Der Hexenfluch versteinert Knorrli sofort. Nun dient er als Mahnmal für künftige Besucher...##- Ende -=====
 
 0x1d3e2 0x1d422
-Im Dunkeln st�rzen sich die Schakale auf Knorrli.##- Ende -=====
+Im Dunkeln stürzen sich die Schakale auf Knorrli.##- Ende -=====
 The jackals fall upon Knorrli in the darkness.##- The End -=====
 
 0x1d424 0x1d53d
-Als Knorrli den magischen Beutel �ffnet bricht ein m�chtiger Wirbelsturm los und tr�gt Knorrli weit fort. Nach einer langen Irrfahrt findet er zur�ck an den Hof des K�nigs Baal. Hier muss er sich nun von den Strapazen erholem, bevor er sich erneut in das Abenteuer Atlantis st�rzt.
+Als Knorrli den magischen Beutel öffnet bricht ein mächtiger Wirbelsturm los und trägt Knorrli weit fort. Nach einer langen Irrfahrt findet er zurück an den Hof des Königs Baal. Hier muss er sich nun von den Strapazen erholem, bevor er sich erneut in das Abenteuer Atlantis stürzt.
 
 0x1d53f 0x1d5a3
 Weiterspielen?#1) Ja, von Anfang an#2) Ja, bei einem gespeicherten Spielstand#3) Nein, Spiel beenden
 Continue?#1) Yes, from the start#2) Yes, from a saved state#3) No, quit game
 
-0x1d5c7 0x1d5d6
+0x1d5c7 item
 Schneckenschleim
 Snail slime
 
-0x1d5e7 0x1d5ef
+0x1d5e7 item
 Barometer
 Barometer
 
-0x1d607 0x1d615
+0x1d607 item
 Papageienzucker
 Parrot sugar
 
-0x1d627 0x1d630
+0x1d627 item
 Feuerstein
 Flintstone
 
-0x1d647 0x1d653
+0x1d647 item
 Istar-Chronik
 
-0x1d667 0x1d675
-Tier-W�rterbuch
+0x1d667 item
+Tier-Wörterbuch
 Animal dict.
 
-0x1d687 0x1d68f
+0x1d687 item
 Honigwabe
 Honeycomb
 
-0x1d6a7 0x1d6b3
+0x1d6a7 item
 Goldener Kamm
 Golden comb
 
-0x1d6c7 0x1d6cf
+0x1d6c7 item
 Totenpilz
 
-0x1d6e7 0x1d6eb
-M�tze
+0x1d6e7 item
+Mütze
 Cap
 
-0x1d707 0x1d710
-Feentr�nen
+0x1d707 item
+Feentränen
 Fairytears
 
-0x1d727 0x1d730
+0x1d727 item
 Lebenswurz
 Liferoot
 
-0x1d747 0x1d751
+0x1d747 item
 Monsterpilz
 
-0x1d767 0x1d771
+0x1d767 item
 Vogelbeeren
 Bird berry
 
-0x1d787 0x1d790
+0x1d787 item
 Windbeutel
 Windbag
 
-0x1d7a7 0x1d7b0
+0x1d7a7 item
 Zauberstab
 Magic wand
 
-0x1d7c7 0x1d7d4
+0x1d7c7 item
 Kaputter Besen
 Broken broom
 
-0x1d7e7 0x1d7ef
-Schl�ssel
+0x1d7e7 item
+Schlüssel
 Key
 
-0x1d807 0x1d80c
+0x1d807 item
 Schuhe
 Shoes
 
-0x1d827 0x1d82e
+0x1d827 item
 Goldsack
 Gold bag
 
-0x1d847 0x1d84f
+0x1d847 item
 Testament
 Testament
 
-0x1d867 0x1d86f
-Schl�ssel
+0x1d867 item
+Schlüssel
 Key
 
-0x1d887 0x1d892
+0x1d887 item
 Einhorn-Horn
 Unicorn horn
 
-0x1d8a7 0x1d8b7
+0x1d8a7 item
 Teile des Kreuzes
 Pieces of a cross
 
-0x1d8c7 0x1d8cb
+0x1d8c7 item
 Rubin
 Ruby
 
-0x1d8e7 0x1d8f5
+0x1d8e7 item
 Heiliges Wasser
 Holy water
 
-0x1d907 0x1d912
+0x1d907 item
 Ritualmesser
 Ritual knife
 
-0x1d927 0x1d934
+0x1d927 item
 Goldene Schale
 Golden chalice
 
-0x1d947 0x1d94d
+0x1d947 item
 Diamant
 Diamond
 
-0x1d967 0x1d96a
+0x1d967 item
 Code
 Code
 
-0x1d987 0x1d98b
+0x1d987 item
 Krone
 Crown
 
-0x1d9a7 0x1d9aa
+0x1d9a7 item
 Wurm
 Worm
 
-0x1d9c7 0x1d9d2
+0x1d9c7 item
 Himmelskraut
 Skyherbs
 
-0x1d9e7 0x1d9ed
+0x1d9e7 item
 Muschel
 
-0x1da07 0x1da0b
+0x1da07 item
 Liane
 Vine
 
-0x1da27 0x1da2b
+0x1da27 item
 Stock
 Stick
 
-0x1da47 0x1da4f
+0x1da47 item
 Brennholz
 Firewood
 
-0x1da67 0x1da6d
-Tr�mmer
+0x1da67 item
+Trümmer
 
-0x1da87 0x1da93
+0x1da87 item
 leere Flasche
 empty bottle
 
-0x1daa7 0x1daac
+0x1daa7 item
 Fackel
 Torch
 
-0x1dac7 0x1dad4
-Einhorn-L�ffel
+0x1dac7 item
+Einhorn-Löffel
 Unicorn spoon
 
-0x1dae7 0x1daeb
-Kr�te
+0x1dae7 item
+Kröte
 Toad
 
-0x1db07 0x1db11
+0x1db07 item
 Zaubertrank
 Potion
 
-0x1db27 0x1db2b
+0x1db27 item
 Angel
 Rod
 
-0x1db47 0x1db4c
+0x1db47 item
 Fische
 Fish
 
-0x1db67 0x1db75
-Angel mit K�der
+0x1db67 item
+Angel mit Köder
 Rod with bait
 
-0x1db87 0x1db8b
+0x1db87 item
 Kreuz
 Cross
 
-0x1dba7 0x1dbb5
+0x1dba7 item
 Besen mit Wachs
 Broom with wax

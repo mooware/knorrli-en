@@ -40,27 +40,27 @@ Some ingredients for the potion are missing.===
 
 0x1aa03 0x1aa0b
 - Piep -
-~Peep~
+-Peep-
 
 0x1aa0d 0x1aa17
 - Krächz -
-~Cacaw~
+-Cacaw-
 
 0x1aa19 0x1aa21
 - Oink -
-~Oink~
+-Oink-
 
 0x1aa23 0x1aa2c
 - Blurp -
-~Blurp~
+-Blurp-
 
 0x1aa2e 0x1aa36
 - Börk -
-~Bork~
+-Bork-
 
 0x1aa38 0x1aa41
 - Hipps -
-~Hick~
+-Hick-
 
 0x1aa43 0x1aa53
 Na Du, Piepmatz!
@@ -100,7 +100,7 @@ Uhm, I forgot.
 
 0x1ab61 0x1aba6
 Ehem, vor Gebrauch schütteln und dann dreimal täglich ein Löffelchen.
-Ahem, shake well before use, and take three spoons full every day.
+Ahem, shake well before use, and take three spoonfuls every day.
 
 0x1aba8 0x1ac0a
 Ce numéro n'est pas valable.=#Veuillez consulter la liste des abonnés.==#Und jetzt hab ich Hunger.
@@ -123,7 +123,7 @@ You could say that. Honestly we are in quite a pickle.
 
 0x1ad99 0x1ad9e
 Äh...
-Uhm..
+Uh...
 
 0x1ada0 0x1ade6
 Klar, versprochen. Grosses Ehrenwort.#Keine Mausefallen, keine Katzen.
@@ -142,6 +142,7 @@ Yeah, yeah, and now you want my help.#Listen, how about a deal: You leave us mic
 
 0x1af13 0x1af5f
 Bestens. Dann versuch doch mal die Geheimtür in der linken Wand.#Viel Glück.
+Sounds good. Then try the secret door in the wall to the left.#Good luck.
 
 0x1af61 0x1af6d
 Hallo Teddy!
@@ -189,10 +190,11 @@ Oh edler Ritter! Tausend Dank, dass ihr den Fluch von mir genommen habt.==#Und d
 
 0x1b2f4 0x1b300
 - Schluchz -
-~Sob~
+- Sob -
 
 0x1b302 0x1b30d
 - Schnief -
+- Sniffle -
 
 0x1b30f 0x1b43e
 Oh edler Held, hab' tausend Dank.=#Was habe ich den vermaledeiten Kamm in meiner Monsterhöhle gesucht.=# Schliesslich will man doch auch als Monster nett aussehen.=#Nimm zum Dank dies: diese Mütze hier schützt Dich vor bösem Blick, vor Flüchen und vor Parkbussen.==#Viel Glück mein Held und lebe wohl.==
@@ -488,6 +490,7 @@ Flintstone
 
 0x1d647 item
 Istar-Chronik
+Istar scroll
 
 0x1d667 item
 Tier-Wörterbuch

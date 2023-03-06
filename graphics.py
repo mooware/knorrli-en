@@ -50,7 +50,7 @@ def gra_to_png(filename):
 
 def png_to_gra(filename, old_filename=None):
     """Convert a PNG to a .gra file from Abenteuer Atlantis"""
-    img = Image.open(filename)
+    img = Image.open(filename).convert(mode='RGB')
     palette_map = {}
     with open(filename + '.gra', "wb") as f:
         # optionally, use and enforce an existing palette

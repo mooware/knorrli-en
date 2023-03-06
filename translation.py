@@ -9,6 +9,14 @@
 import sys
 
 def apply_line(target_file, from_address, to_address, line, is_item=False):
+    """Apply a line to the given range of a file.
+
+    target_file -- seekable/writeable stream in which to make the change
+    from_address -- start of the target range in the file
+    to_address -- end of the target range (exclusive)
+    line -- string to write into the target range
+    is_item -- if true it is treated as an item string, which is terminated differently
+    """
     if not line:
         print('warning: ignoring empty translation for range {:x}-{:x}'
                 .format(from_address, to_address))
@@ -46,7 +54,7 @@ def apply_translations(translation_file_path, target_file_path):
                     is_item = addrline.endswith(' item')
                     if is_item:
                         fromaddr = int(addrline.split(' ')[0], base=16)
-                        toaddr = fromaddr + 0x10
+                        toaddr = fromaddr + 0x11
                     else:
                         (fromaddr, toaddr) = (int(s, base=16) for s in addrline.split(' '))
                     apply_line(tgt, fromaddr, toaddr, toline, is_item=is_item)

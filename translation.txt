@@ -360,7 +360,7 @@ Who are you?
 
 0x1c090 0x1c1df
 Ich heisse Meteosat.#Eigenlich bin ich Meteorologe. Aber meine Prognosen haben nie gestimmt. Und nachdem Creon eines Tages fürchterlich verregnet wurde, hat er mich hier hinauf verbannt.#Jetzt baue ich Nektar und Ambrosia für die Götter an.#Ich darf erst wieder runter, wenn meine Prognosen besser sind.#Du kannst mir sicher helfen.===
-My name is Meteosat.#I was a meteorologist, but my predictions were never correct. One day, Creon got into a terrible rainshower because of me, so he banished me to this isolated place.#Now I'm harvesting nectar and ambrosia for the gods here.#I am only allowed to return once my predictions have gotten better.#Maybe you could help.===
+My name is Meteosat.#I was a meteorologist, but my predictions were never correct. One day Creon got into a terrible rainshower because of me, so he banished me to this isolated place.#Now I'm harvesting nectar and ambrosia for the gods here.#I am only allowed to return once my predictions have gotten better.#Maybe you could help.===
 
 0x1c1e1 0x1c200
 Was sind zum Beispiel 'Cumuli'?
@@ -540,7 +540,7 @@ Knorrli dares to get too close to the bear, and notices that it seems very hungr
 
 0x1d230 0x1d32a
 Hier haust Tiamat, das Sumpfmonster, das Knorrli beim Betreten seines Reviers sofort entdeckt. Aug' in Aug' mit dem Monster sucht Knorrli verzweifelt nach einem Ausweg.====#Doch leider findet er nichts zum Besänftigen des Ungeheuers...##- Ende -=====
-Here lives Tiamat, the swamp monster, who immediately spots Knorrli as he enters its territory. Under its threatening gaze, Knorrli desperately searches for a way to escape.====#But he fails to find a way to calm the terrifying beast...##- The End -=====
+Here lives Tiamat, the swamp monster, who immediately spots Knorrli as he enters its territory. Under its threatening gaze, Knorrli desperately searches for a way to escape.====#But he fails to find a way to calm the scary beast...##- The End -=====
 
 0x1d32c 0x1d3e0
 Einer Hexe sollte man nicht ohne entsprechenden Schutz entgegentreten.==#Der Hexenfluch versteinert Knorrli sofort. Nun dient er als Mahnmal für künftige Besucher...##- Ende -=====
@@ -557,6 +557,14 @@ When Knorrli opens the magic bag, a great tornado rushes out and carries him far
 0x1d53f 0x1d5a3
 Weiterspielen?#1) Ja, von Anfang an#2) Ja, bei einem gespeicherten Spielstand#3) Nein, Spiel beenden
 Continue?#1) Yes, from the start#2) Yes, from a saved state#3) No, quit game
+
+0x18f8a 0x18fc9
+         Sichern:#Bitte Nummer eingeben:#     1 2 3 4 5 6 7 8 9
+           Save:#Please enter slot num:#     1 2 3 4 5 6 7 8 9
+
+0x18fce 0x1900b
+         Laden:#Bitte Nummer eingeben:#     1 2 3 4 5 6 7 8 9
+         Load:#Please enter slot num:#     1 2 3 4 5 6 7 8 9
 
 0x1d5c7 item
 Schneckenschleim

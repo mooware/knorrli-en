@@ -3,6 +3,12 @@
 # "=" - also some kind of non-printable special sign, not sure what it does, could be a pause
 # "Zweistromland" - not sure there's a good equivalent, so I'll probably go with "Mesopotamia" most of the time
 # "Himmelskraut" - heavenly herbs? a bit too long for item names probably. sky herb(s)?
+#
+# I don't know where the size of the textboxes is coming from, it seems that they're fixed.
+# So sometimes the text just goes out of the bounds of the textbox, and needs manual rewriting to fit.
+# TODO: french text isn't working right? different codepage?
+#
+# If the game crashes after Charon's room, check if you have the file "KNOLAND.CMF", and if not, rename "KNOLAND1.CMF" to that.
 
 0x19618 0x199b6
 Ihr, die Ihr hier eintretet:#Lasst alle Hoffnung fahren!######Wir schreiben das Jahr 178 vor Christus. Ein grausamer Fluch liegt über unserem armen Mesopotamien. Hunger und Krankheit regieren das Zweistromland. Wir sind verzweifelt und selbst unser guter König Baal ist am Ende seiner legendären Weisheit.#Der Grund für unser Unglück liegt im Dunkeln. Die Alten erzählen schreckliche Legenden aus längst vergangenen Tagen. Grausame Götter in finsterer Unterwelt sind schuld am Elend uns'res Volkes, meinen sie.#Wir wissen es nicht.#Ich selbst heiss' Knorrli. Als Küchenjunge arbeit' ich am traurigen Hofe König Baals. Das Abendopfer rüst' ich jeden Tag, und gestern fand ich - bei eben jener Tätigkeit - ein seltsam' Pergament im Bauche eines güldnen Fisches. Heut eil ich damit zum weisen Atargatis, dem Sternengucker an des Königs Hof. Vielleicht weiss der, was Knorrli fand in Neptuns güt'ger Gabenpracht.##################
@@ -18,12 +24,12 @@ Oh noble stranger, you shall now learn the answer to the riddle of Atlantis:#Far
 
 0x19fbc 0x1a1e7
 Ich bin gescheitert. Mein Ende naht. Wenn je ein Mensch dies liest bin ich schon längst nicht mehr.=#Deshalb: Hört diese Warnung. Kein Lebender setzt je den Fuss in Istars finstres Reich. Zu mächtig ist Charon, ihr düstrer Wächter. In jugendlichem Überschwang versuchte ich den Grausamen. Und seht mich heute an.=#Haltet euch fern von seinem Tempel. Stellt nie wieder das zerschmetterte Kreuz auf seinen Altar, sonst steigt er zurück, hinauf ans fahle Licht des schwindenden Mondes. Und dann Gnade eurer armen Seele!===#Flieht, so lange ihr noch könnt!===
-I have failed. My end is nigh. If ever anyone should read this, then I have already left this world.=#So hear my warning. No mortal shall set foot in Istar's dark realm. Too powerful is her guardian Charon. In my youthful arrogance, I challenged this cruel being. And now behold of what came of it.=#Stay well away from his temple. Never again shall anyone set the broken cross onto his altair, or he will rise again, into the pale light of the waning moon. And then may the gods grant mercy to your souls!===#Flee, while you still can!===
+I have failed. My end is nigh. If ever anyone should read this, then I have already left this world.=#So hear my warning. No mortal shall set foot in Istar's dark realm. Too powerful is her guardian Charon. In my youthful arrogance, I challenged this cruel being. And now behold of what came of it.=#Stay well away from his temple. Never again shall anyone set the broken cross onto his altair, or he will rise again, into the pale light of the waning moon. And then may the gods grant mercy to your soul!===#Flee, while you still can!===
 
 # too short?
 0x1a1e9 0x1a7f3
 Und so geschah es dann auch: Creon kehrte zurück auf seinen göttlichen Thron (eine bescheidene, aber sehr angenehme 5-Wolken Villa in der Nähe des Morgensterns).#In Mesopotamien zog das Glück wieder ein. Das Reich des Baal blühte in alter Herrlichkeit und die Menschen lebten lange und zufrieden.#Und Knorrli?##Als Dank für seine Hilfe durfte er sich von Creon etwas wünschen. Und er bat ihn um die Wolkenstadt. Denn seitdem Meteosat die Stadt verlassen hatte, zog diese verwaist ihre weite Bahn.#Am Hof des Baal wurde Knorrli triumphal empfangen. Baal ernannte ihn zu seinem Leibkoch. Dank seiner besonderen Zutaten aus der Wolkenstadt, dank Nektar, Ambrosia und Himmelskraut, war seine Kochkunst bald in der gesamten antiken Welt berühmt und gesucht. Als Krönung erhielt er als einziger Koch der Antike fünf Sterne in Cleopatras kleinem Tavernen-#führer.#Und schliesslich ist noch zu berichten von etwas schier unglaublichem: Knorrli hatte doch einen grossen Schluck des königlichen Lebenselixiers zu sich genommen, bevor er in den Creon-Palast abtauchte; dank diesem Trank altert unser Held nicht mehr. Und damit nicht genug: Er wurde unsterblich.#Als weltberühmter Koch verwöhnte er nach dem Tode Baals noch manch gekröntes Haupt. Fürstinnen und Prinzen, Könige, Päpste und Maharadschas genossen seine superben Künste. Nach der französichen Revolution schliesslich beschloss er, auch für die Normal-#sterblichen tätig zu werden. Und seitdem ist Knorrli ein gern gesehener Gast in ungezählten Küchen auf der ganzen Welt. . .###################
-And so it came to pass: Creon returned to his godly throne (a humble, but very comfortable 5-cloud mansion near the morning star).#Good fortune returned to Mesopotamia. The realm of Baal returned to its former glory, and the people lived long and happy lives.#And Knorrli?##To thank him for his help, Creon granted him a wish. And Knorrli asked for the cloud city, which went along its lonely orbit ever since Meteosat had left it.#There was a triumphant reception for Knorrli at the King's court, and he was named the King's personal chef. Thanks to the special ingredients from the cloud city, the nectar, the ambrosia and the sky herbs, his culinary skills were soon known and sought after throughout the world. As his crowning achievement, he was the only chef in all of antiquity to receive five stars in Cleopatra's little tavern guide.#And finally something incredible occurred: Because of the big sip Knorrli took of the curse-breaking godly elixir before diving down to Creon's palace, he stopped aging. And not just that, he became immortal.#As a world-famous chef, he kept serving many rulers after King Baal died. Princes and princesses, kings, popes and maharajahs enjoyed his culinary treats. After the French Revolution he decided to also offer his services to the common people. And since then, Knorrli is a welcome guest in many kitchens all over the world. . .###################
+And so it came to pass: Creon returned to his godly throne (a humble, but very comfortable 5-cloud mansion near the morning star).#Good fortune returned to Mesopotamia. The realm of Baal returned to its former glory, and the people lived long and happy lives.#And Knorrli?##To thank him for his help, Creon granted him a wish. And Knorrli asked for the cloud city, which went along its lonely orbit ever since Meteosat had left it.#There was a triumphant reception for Knorrli at the King's court, and he was named the King's personal chef. Thanks to the special ingredients from the cloud city, the nectar, the ambrosia and the sky herbs, his culinary skills were soon known and sought after throughout the world. As his crowning achievement, he was the only chef in all of antiquity to receive five stars in Cleopatra's little tavern guide.#And finally something incredible occurred: Because of the big sip Knorrli took of the curse-breaking godly elixir before diving down to Creon's palace, he stopped aging. And not just that, he became immortal.#As a world-famous chef, he kept serving many rulers after King Baal died. Princes and princesses, kings, popes and maharajahs enjoyed his culinary treats. After the French Revolution he decided to also offer his services to the common people. And since then, Knorrli is a welcome guest in many kitchens all over the world ...###################
 
 0x1a7f6 0x1a855
 Und Knorrli öffnet mit dem Code, den ihm der Papagei verraten hat, die Geheimtüre zum Archiv...
@@ -47,7 +53,7 @@ Some ingredients for the potion are missing.===
 
 0x1aa03 0x1aa0b
 - Piep -
-- Peep -
+-Peep-
 
 0x1aa0d 0x1aa17
 - Krächz -
@@ -99,7 +105,7 @@ Birdy yourself!#Hick, borp!
 
 0x1ab26 0x1ab46
 Klar doch, was willst Du wissen?
-Sure, what do you wanna know?
+Sure, what'ya want to know?
 
 0x1ab48 0x1ab5f
 Öh, hab' ich vergessen.
@@ -110,6 +116,7 @@ Ehem, vor Gebrauch schütteln und dann dreimal täglich ein Löffelchen.
 Ahem, shake well before use, and take three spoonfuls every day.
 
 # in french: "This number is not valid.=#Please consult the list of subscribers."
+# english patch doesn't display correctly? mixed codepages?
 0x1aba8 0x1ac0a
 Ce numéro n'est pas valable.=#Veuillez consulter la liste des abonnés.==#Und jetzt hab ich Hunger.
 Ce numéro n'est pas valable.=#Veuillez consulter la liste des abonnés.==#Now I'm hungry.
@@ -392,7 +399,7 @@ And what are isobars?
 
 0x1c4ad 0x1c509
 Linien, die Zonen mit#1) gleichem Luftdruck#2) gleicher Temperatur#3) gleicher Höhe anzeigen
-Lines that show zones with#1) same air pressure#2) same temperature#3) same height
+Lines that show zones of#1) same air pressure#2) same temperature#3) same height
 
 0x1c244 0x1c2c0
 Nein, das stimmt nicht, das weiss ich. Wenn Du mir nicht helfen willst, dann zieh' Leine. Ich kann Dich hier nicht brauchen.

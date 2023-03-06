@@ -1,6 +1,12 @@
+# translation notes:
+# "#" - line break, not my invention, the game does it like that already
+# "=" - also some kind of non-printable special sign, not sure what it does, could be a pause
+# "Zweistromland" - not sure there's a good equivalent, so I'll probably go with "Mesopotamia" most of the time
+# "Himmelskraut" - heavenly herbs? a bit too long for item names probably. sky herb(s)?
+
 0x19618 0x199b6
 Ihr, die Ihr hier eintretet:#Lasst alle Hoffnung fahren!######Wir schreiben das Jahr 178 vor Christus. Ein grausamer Fluch liegt über unserem armen Mesopotamien. Hunger und Krankheit regieren das Zweistromland. Wir sind verzweifelt und selbst unser guter König Baal ist am Ende seiner legendären Weisheit.#Der Grund für unser Unglück liegt im Dunkeln. Die Alten erzählen schreckliche Legenden aus längst vergangenen Tagen. Grausame Götter in finsterer Unterwelt sind schuld am Elend uns'res Volkes, meinen sie.#Wir wissen es nicht.#Ich selbst heiss' Knorrli. Als Küchenjunge arbeit' ich am traurigen Hofe König Baals. Das Abendopfer rüst' ich jeden Tag, und gestern fand ich - bei eben jener Tätigkeit - ein seltsam' Pergament im Bauche eines güldnen Fisches. Heut eil ich damit zum weisen Atargatis, dem Sternengucker an des Königs Hof. Vielleicht weiss der, was Knorrli fand in Neptuns güt'ger Gabenpracht.##################
-Ye who enter here:#Abandon all hope!######The year is 178 before Christ. A terrible curse has befallen our poor Mesopotamia. Hunger and sickness rule the land between the two rivers. The people despair, and even our good king Baal has reached the end of his legendary wisdom.#The cause for our misfortune remains shrouded in darkness. The elders tell frightful tales from days long past. Cruel gods from a dark underworld are to be blamed for our people's woe, they say.#But we do not know.#As for me, I am called Knorrli. I work in the kitchens of king Baal's sorrowful court. I prepare the evening sacrifice every day, and there just yesterday I found a peculiar piece of parchment in the bowels of a golden fish. Today with haste I will take it to the sage Atargatis, the astronomer in the king's court. Mayhaps he can tell what Knorrli has found in Neptune's mercyful bounty.##################
+Ye who enter here:#Abandon all hope!######The year is 178 before Christ. A terrible curse has befallen our poor Mesopotamia. Hunger and sickness rule the land between the two rivers. The people despair, and even our good King Baal has reached the end of his legendary wisdom.#The cause for our misfortune remains shrouded in darkness. The elders tell frightful tales from days long past. Cruel gods from a dark underworld are to be blamed for our people's woe, they say.#But we do not know.#As for me, I am called Knorrli. I work in the kitchens of King Baal's sorrowful court. I prepare the evening sacrifice every day, and there just yesterday I found a peculiar piece of parchment in the bowels of a golden fish. Today with haste I will take it to the sage Atargatis, the astronomer in the King's court. Mayhaps he can tell what Knorrli has found in Neptune's mercyful bounty.##################
 
 0x199b8 0x19c64
 Was bringst Du, Bub? Lass sehen.##Es geht die Sage, dass ein goldner Thunfisch das Geheimnis in sich trage, wie uns're arme Heimat von arger Not zu retten sei. Mir scheint, Du hast gefunden, was des Volkes Mund besang.#Doch weh! Geschrieben ist's in einer Schrift, die ich nicht lesen kann. Und wenn ich nicht kundig bin, so weiss ich nicht, wer's noch sein könnt im weiten alten Erdenrund.#Mein Knorrli, ich bin alt. Dein Arm jedoch ist jung und stark. Zieh aus! Denn in der grossen Welt vielleicht des Rätsels Lösung Deiner harrt.#Ich muss zum Abendopfer nun, die Götter gnädig stimmen. Leb wohl, mein Knorrli. Die Hoffnungen unsrer Heimat ruhn -##allein auf Dir.###################
@@ -14,9 +20,10 @@ Oh noble stranger, you shall now learn the answer to the riddle of Atlantis:#Far
 Ich bin gescheitert. Mein Ende naht. Wenn je ein Mensch dies liest bin ich schon längst nicht mehr.=#Deshalb: Hört diese Warnung. Kein Lebender setzt je den Fuss in Istars finstres Reich. Zu mächtig ist Charon, ihr düstrer Wächter. In jugendlichem Überschwang versuchte ich den Grausamen. Und seht mich heute an.=#Haltet euch fern von seinem Tempel. Stellt nie wieder das zerschmetterte Kreuz auf seinen Altar, sonst steigt er zurück, hinauf ans fahle Licht des schwindenden Mondes. Und dann Gnade eurer armen Seele!===#Flieht, so lange ihr noch könnt!===
 I have failed. My end is nigh. If ever anyone should read this, then I have already left this world.=#So hear my warning. No mortal shall set foot in Istar's dark realm. Too powerful is her guardian Charon. In my youthful arrogance, I challenged this cruel being. And now behold of what came of it.=#Stay well away from his temple. Never again shall anyone set the broken cross onto his altair, or he will rise again, into the pale light of the waning moon. And then may the gods grant mercy to your souls!===#Flee, while you still can!===
 
+# too short?
 0x1a1e9 0x1a7f3
 Und so geschah es dann auch: Creon kehrte zurück auf seinen göttlichen Thron (eine bescheidene, aber sehr angenehme 5-Wolken Villa in der Nähe des Morgensterns).#In Mesopotamien zog das Glück wieder ein. Das Reich des Baal blühte in alter Herrlichkeit und die Menschen lebten lange und zufrieden.#Und Knorrli?##Als Dank für seine Hilfe durfte er sich von Creon etwas wünschen. Und er bat ihn um die Wolkenstadt. Denn seitdem Meteosat die Stadt verlassen hatte, zog diese verwaist ihre weite Bahn.#Am Hof des Baal wurde Knorrli triumphal empfangen. Baal ernannte ihn zu seinem Leibkoch. Dank seiner besonderen Zutaten aus der Wolkenstadt, dank Nektar, Ambrosia und Himmelskraut, war seine Kochkunst bald in der gesamten antiken Welt berühmt und gesucht. Als Krönung erhielt er als einziger Koch der Antike fünf Sterne in Cleopatras kleinem Tavernen-#führer.#Und schliesslich ist noch zu berichten von etwas schier unglaublichem: Knorrli hatte doch einen grossen Schluck des königlichen Lebenselixiers zu sich genommen, bevor er in den Creon-Palast abtauchte; dank diesem Trank altert unser Held nicht mehr. Und damit nicht genug: Er wurde unsterblich.#Als weltberühmter Koch verwöhnte er nach dem Tode Baals noch manch gekröntes Haupt. Fürstinnen und Prinzen, Könige, Päpste und Maharadschas genossen seine superben Künste. Nach der französichen Revolution schliesslich beschloss er, auch für die Normal-#sterblichen tätig zu werden. Und seitdem ist Knorrli ein gern gesehener Gast in ungezählten Küchen auf der ganzen Welt. . .###################
-And so it came to pass: Creon returned to his godly throne (a humble, but very comfortable 5-cloud mansion near the morning star).#Good fortune returned to Mesopotamia. The realm of Baal returned to its former glory, and the people lived long and happy lives.#And Knorrli?##To thank him for his help, Creon granted him a wish. TODO
+And so it came to pass: Creon returned to his godly throne (a humble, but very comfortable 5-cloud mansion near the morning star).#Good fortune returned to Mesopotamia. The realm of Baal returned to its former glory, and the people lived long and happy lives.#And Knorrli?##To thank him for his help, Creon granted him a wish. And Knorrli asked for the cloud city, which went along its lonely orbit ever since Meteosat had left it.#There was a triumphant reception for Knorrli at the King's court, and he was named the King's personal chef. Thanks to the special ingredients from the cloud city, the nectar, the ambrosia and the sky herbs, his culinary skills were soon known and sought after throughout the world. As his crowning achievement, he was the only chef in all of antiquity to receive five stars in Cleopatra's little tavern guide.#And finally something incredible occurred: Because of the big sip Knorrli took of the curse-breaking godly elixir before diving down to Creon's palace, he stopped aging. And not just that, he became immortal.#As a world-famous chef, he kept serving many rulers after King Baal died. Princes and princesses, kings, popes and maharajahs enjoyed his culinary treats. After the French Revolution he decided to also offer his services to the common people. And since then, Knorrli is a welcome guest in many kitchens all over the world. . .###################
 
 0x1a7f6 0x1a855
 Und Knorrli öffnet mit dem Code, den ihm der Papagei verraten hat, die Geheimtüre zum Archiv...
@@ -28,7 +35,7 @@ The letters of the mysterious document are beginning to dissolve!
 
 0x1a89f 0x1a969
 Hier haust Tiamat, das Sumpfmonster, das Knorrli beim Betreten seines Reviers sofort entdeckt.=#Schnüffelnd sucht es den vor Schreck erstarrten Knorrli ab, bis es den Monsterpilz findet.===###Dann...===
-Here lives Tiamat, the swamp monster, who noticed Knorrli immediately when he entered its territory.=# TODO TODO TODO
+Here lives Tiamat, the swamp monster, who noticed Knorrli immediately when he entered its territory.=# It sniffs around the frightened Knorrli until it finds the monstershroom.===###Suddenly...===
 
 0x1a96b 0x1a9cc
 Und Knorrli braut nach dem Geheimrezept den Trank, der Creon und das Zweistromland erretten kann.
@@ -40,27 +47,27 @@ Some ingredients for the potion are missing.===
 
 0x1aa03 0x1aa0b
 - Piep -
--Peep-
+- Peep -
 
 0x1aa0d 0x1aa17
 - Krächz -
--Cacaw-
+- Cacaw -
 
 0x1aa19 0x1aa21
 - Oink -
--Oink-
+- Oink -
 
 0x1aa23 0x1aa2c
 - Blurp -
--Blurp-
+- Blurp -
 
 0x1aa2e 0x1aa36
 - Börk -
--Bork-
+- Bork -
 
 0x1aa38 0x1aa41
 - Hipps -
--Hick-
+- Hick -
 
 0x1aa43 0x1aa53
 Na Du, Piepmatz!
@@ -102,12 +109,17 @@ Uhm, I forgot.
 Ehem, vor Gebrauch schütteln und dann dreimal täglich ein Löffelchen.
 Ahem, shake well before use, and take three spoonfuls every day.
 
+# in french: "This number is not valid.=#Please consult the list of subscribers."
 0x1aba8 0x1ac0a
 Ce numéro n'est pas valable.=#Veuillez consulter la liste des abonnés.==#Und jetzt hab ich Hunger.
 Ce numéro n'est pas valable.=#Veuillez consulter la liste des abonnés.==#Now I'm hungry.
 
+# TODO: can't find a good english idiom for the first sentence, it's literally
+# "it's awakening my inner bearded vulture" but it's supposed to mean like
+# "it's really giving me energy"
 0x1ac0c 0x1ad13
 Klar doch, das weckt den Lämmergeier in mir.==#Aber mein Hirni ist immer noch blank.===#Lediglich ein Nümmerchen dreht seine Runden an meinem geistigen Horizont: 2794.===#Aber was das soll, weiss ich auch nicht.#Sorry.#Aber man wird eben auch nicht jünger.#Blurp.
+Much better, I'm wide awake now.==#But my memory is still blank.===#There's just one little number that's bouncing around the edges of my mind: 2794.===#But don't ask me what it's supposed to mean.#Sorry.#I'm not getting any younger.#Blurp.
 
 0x1ad15 0x1ad45
 Die Geheimzahl der Geheimtür lautet: 2794.#Hips!
@@ -131,6 +143,7 @@ Sure, I promise. Cross my heart.#No mouse traps, no cats.
 
 0x1ade8 0x1ae1e
 Na, der Herr; sind wir nicht etwas vom Weg abgekommen?
+Hello sir, you look like you might be lost?
 
 0x1ae20 0x1ae6d
 Bist Du nicht das Ekel, das immer die Mausefallen in die Speisekammer stellt?
@@ -138,7 +151,7 @@ Aren't you the jerk who always sets up mouse traps in the pantry?
 
 0x1ae6f 0x1af11
 Ja, ja, und jetzt willst Du, dass ich Dir helfe.#Hör zu. Ich schlage Dir ein Geschäft vor: Du lässt in Zukunft das Mausen und ich helfe Dir dafür hier raus. Okay?
-Yeah, yeah, and now you want my help.#Listen, how about a deal: You leave us mice alone, and I will help you get out of here. Okay?
+Yeah, yeah, and now you expect me to help you.#Listen, how about a deal: You leave us mice alone, and I will help you get out of here. Okay?
 
 0x1af13 0x1af5f
 Bestens. Dann versuch doch mal die Geheimtür in der linken Wand.#Viel Glück.
@@ -150,9 +163,11 @@ Hello Teddy!
 
 0x1af6f 0x1af89
 Darf ich Dich mal kraulen?
+Can I pet you?
 
 0x1af8b 0x1af93
 Kuckuck?
+Hello?
 
 0x1af95 0x1afa1
 Werte Damen!
@@ -172,21 +187,28 @@ Thank you!
 
 0x1afdc 0x1b058
 Verzieh' Dich, Jungchen! Wir haben keine Zeit zum plaudern.#Noch nie was vom weltberühmten Bienenfleiss gehört, Du Faultier?
+Buzz off, boy! We ain't got time for chit chat.#Haven't you ever heard the term "busy as a bee", you lazy oaf?
 
 0x1b05a 0x1b08c
 Lass die Faxen, Bürschchen, wir haben zu arbeiten!
+Stop messing around, kid, we've got work to do!
 
 0x1b08e 0x1b144
 Die ist beschäftigt. Allfällige Anfragen oder Beschwerden sind in dreifacher Ausführung zu richten an:== den mesopotamischen Imkerverein, Ortsgruppe Feenwald.==#Und jetzt schwirr ab!
+Her Majesty is busy. Any enquiries or complaints are to be submitted in triplicate to:== The mesopotamian beekeepers association, Fairy Wood local chapter.==#And now get lost!
 
 0x1b146 0x1b1d3
 Oh, seht mal: echter Papageienzucker!==#Das ist aber nett, Jungchen. He Mädels, schiebt dem Goldbuben zum Dank mal 'ne Wabe zum Kosten rüber!
+Would you look at that: real parrot sugar!==#That's very kind of you, kid. Hey girls, get this sweet kid a nice honeycomb sample as thanks!
 
 0x1b1d5 0x1b227
 Gern geschehen Schätzchen. Mit Zucker bist Du uns immer wilkommen. Hasta la vista!
+You're welcome, darling. You're always welcome if you bring sugar. Hasta la vista!
 
+# don't really want to translate the part about wanting to die, so I'll just cut it short
 0x1b229 0x1b2f2
 Oh edler Ritter! Tausend Dank, dass ihr den Fluch von mir genommen habt.==#Und doch, mein Herz ist schwer. Denk ich ans düst're Schicksal meines lieben Zweistromlands möcht' ich am liebsten sterben.===
+Oh noble knight! A thousand thanks for freeing me from this evil curse.==#But still my heart remains heavy, when I think of the dire fate of our dear homeland.===
 
 0x1b2f4 0x1b300
 - Schluchz -
@@ -198,6 +220,7 @@ Oh edler Ritter! Tausend Dank, dass ihr den Fluch von mir genommen habt.==#Und d
 
 0x1b30f 0x1b43e
 Oh edler Held, hab' tausend Dank.=#Was habe ich den vermaledeiten Kamm in meiner Monsterhöhle gesucht.=# Schliesslich will man doch auch als Monster nett aussehen.=#Nimm zum Dank dies: diese Mütze hier schützt Dich vor bösem Blick, vor Flüchen und vor Parkbussen.==#Viel Glück mein Held und lebe wohl.==
+Oh noble hero, a thousand thanks.=#I've been looking for this damned comb all over my monster lair.=# Even a monster wants to look good from time to time.=#Take this as a reward: This cap will protect you from the evil eye, from curses and from parking tickets.==#Good luck and fare well, my hero.==
 
 0x1b440 0x1b459
 Madame, gehört der Ihnen?
@@ -209,18 +232,23 @@ In the woods.
 
 0x1b46d 0x1b52a
 Nanü?#Ist mein Fluch schon wieder defekt?#Jetzt habe ich das Ding doch gerade erst zum grossen Service gegeben.==#Schlamperei, sowas!#Jetzt wird die Werkstatt aber was zu hören bekommen!===
+What's this, is my curse defective again?#I just had it in the repair shop for its scheduled maintenance.==#Such shoddy work!#That repair shop is going to hear from me!===
 
 0x1b52c 0x1b59b
 Oh, mein Goldschatz! Komm zu Mami. Hast Du dich wieder verlaufen?#Wo hast Du denn meinen Sebastian gefunden?===
+Oh, my precious little darling! Come to mommy. Did you get lost again?#Where did you find my Sebastian?===
 
 0x1b59d 0x1b75a
 So ist's brav, Bub!#Ich hab ja nur einen schlechten Ruf zu verlieren, aber auch auf den ist man halt stolz. Und geizig soll mich keiner nennen.#Deshalb: Nimm zum Dank diese Schuhe. Sie machen Dich unsichtbar für die Dämonen der Unterwelt, falls Du je hinab ins Reich der Schatten steigen solltest! Allerdings, sei vorsichtig...#Meine Werkstatt ist ja nicht die beste, Du hast's eben selbst gesehen.#Aber genug gequatscht, so long mein Cowboy!===
+That's very nice of you!#All I have to lose is my bad reputation, but I don't want to appear ungrateful.#So I'd like to give you these shoes as thanks. They will turn you invisible to the demons of the underworld, if you ever have to descend to their shadowy realm! But be careful...#I had them in the same repair shop as my curse, and you saw how that turned out.#But enough chatting, so long mein cowboy!===
 
 0x1b75c 0x1b7af
 He! Moment mal Du Wicht! Du hast in meinem schmucken Eigenheim nichts zu suchen!===
+Hey! Hold it, you little gnome! My beautiful home is none of your business!===
 
 0x1b7b1 0x1b7c1
 Fliege gefällig?
+Want a fly?
 
 0x1b7c3 0x1b7e2
 Bist Du ein verzauberter Prinz?
@@ -236,39 +264,51 @@ Hogwash!
 
 0x1b7f7 0x1b81e
 Dann erzähl mir doch mal ein Geheimnis.
+Then tell me a secret.
 
 0x1b820 0x1b847
 Bäh, bloss nicht!#Ich steh auf Trüffel.
+Eww, no way!#I prefer truffles.
 
 0x1b849 0x1b8b7
 Nee, für diese billigen Tricks sind meine Kumpels zuständig, die Frösche.#Ich gehöre zum lokalen Geheimdienst.
+Nah, that kind of cheap trick is more the responsibility of the frogs.#I'm in the local intelligence agency.
 
 0x1b8b9 0x1b8ca
 Ja. Scharf, gell?
+Yeah. Rad, right?
 
 0x1b8cc 0x1b8e7
 He, nur nicht frech werden!
+Hey, no need to get cheeky!
 
 0x1b8e9 0x1b95e
 Nun, ich bin noch in der Ausbildung. Ich kenn nur den Trick mit dem Sesam.#Und mehr darf ich Dir auch nicht erzählen.
+Well, I'm still in training. I only know the trick with the sesame.#And I'm not allowed to tell you about that.
 
 0x1b960 0x1bab0
 Mein lieber Schwan!#Das war knapp.==#Ich hab mich schon als Einhorn-Entrecôte mit Morcheln in der Hexenpfanne brutzeln sehen.==#Schnappt mich die alte Schachtel doch glatt, als ich im Feenwald dieser bezaubernden Keinhorn-Dame den Hof mache. So'n Pech.==#Hier, zum Dank kannste mein Horn haben.#Die Dinger sind eh nicht mehr in Mode.===
+Holy moly!#That was close.==#I already pictured myself in the witch's frying pan as a unicorn entrecôte with morels.==#She caught me in the fairy woods, as I was just courting this enchanting no-horn lady. Such bad luck.==#Here, have my horn as thanks.#These things aren't in fashion anymore anyway.===
 
 0x1bab2 0x1bacf
 Gehörst Du hier zum Personal?
+Do you work here?
 
 0x1bad1 0x1bae8
 Bist Du auch ein Geist?
+Are you also a ghost?
 
 0x1baea 0x1bb0c
 Wo geht's denn hier zur Unterwelt?
+Which way to the underworld?
 
 0x1bb0e 0x1bba2
 Klar, Friedhofsbeamte auf Lebenszeit, Lohnklasse F, Mitglied der GGGG (Gewerkschaft der Gruben- und Gruftgeister), rentenversichert.#Noch Fragen?===
+Sure, I'm a graveyard official for life, pay grade F, member of the union of cave and grave ghosts, with full pension insurance.#Any questions?===
 
 0x1bba4 0x1bc6b
 Nee, von Haus aus bin ich eigentlich Suppenhuhn.#Aber leider hatte ich da diesen kleinen Zusammenstoss mit dem blöden Hexenfluch.==#Jetzt bin ich halt Friedhofs-Fledermaus. Auch nicht so schlecht.===
+No, originally I was a soup chicken.#But then I had an unfortunate encounter with that dumb witch's curse.==#So now I'm a graveyard bat. And it's not so bad after all.===
 
 0x1bc6d 0x1bc91
 Das musst Du schon Charon fragen.===
@@ -276,6 +316,7 @@ You'll have to ask Charon.===
 
 0x1bc93 0x1be32
 Das war jetzt aber nett, mit Dir zu Plaudern. Dazu komm ich kaum noch seitdem ich den Hühnerhof hinter mir lassen musste.#Lebende sind hier äusserst selten. Und diese verdammten Zombies sind so verstockt.==#Deshalb hier noch ein Tip zum Schluss: Wenn Du das Charon-Kreuz gefunden hast steht Dir des Dämons Tempel offen. Doch vorsicht: Der Kerl wohnt nicht gerade im besten Viertel unserer Totenstadt. Viel Glück.===
+Thanks for the nice chat. I don't really get to do that anymore, ever since I left the chicken coop.#We don't see a lot of mortals around these parts. And these dang zombies are always so stiff.==#So I'll give you a little hint: When you find Charon's cross, the doors of his demonic temple will open for you. But be careful: That guy lives in a pretty bad neighborhood of this city of the dead. Good luck.===
 
 0x1be34 0x1be4f
 Was willst Du, Sterblicher?
@@ -283,9 +324,11 @@ What do you want, mortal?
 
 0x1be51 0x1beb1
 Du elender Wurm! Ewig rösten in meinem finst'ren Feuer sollst Du.#Fahr zur Hölle, Sterblicher!==
+You wretched worm! You will roast forever in my dark fires.#To hell with you, mortal!==
 
 0x1beb3 0x1bf7d
 Das ist aber nett, mein Kleiner. Hast Du Dein Sparschwein geschlachtet und dem guten Onkel Charon mitgebracht. Nein sowas!==#Zur Belohnung darfst Du auch mal Höllenlift fahren.#Komm, hier geht's lang.==
+That's very generous of you, little one. Did you break your piggy bank for a gift for good old uncle Charon. Thank you!==#As a reward I'll let you have a ride on the hell elevator.#Right this way.==
 
 0x1bf7f 0x1bfab
 Ich hab Euch etwas mitgebracht, Herr Charon.
@@ -297,65 +340,79 @@ I have business with Istar, let me in.
 
 0x1bfd6 0x1c02c
 Ich will dieses Game gewinnen, also versalz mir nicht die Suppe, Du ungehobelter Kerl.
+I want to win this game, so stop being rude and get out of my way.
 
 0x1c02e 0x1c04f
 Sei mir gnädig, Sohn des Himmels!
 Have mercy on me, heavenly son!
 
+0x1c38b 0x1c3b9
+Moment, ich bin nur ein harmloser Küchenjunge.
+Hold on, I am only a harmless kitchen boy.
+
 0x1c051 0x1c08e
 Ach! Und ich dachte schon, nur Götter reisen per Luftpost.===
+Oh! And I thought only the gods travel by air mail.===
+
+0x1c3bb 0x1c3c7
+Wer bist Du?
+Who are you?
 
 0x1c090 0x1c1df
 Ich heisse Meteosat.#Eigenlich bin ich Meteorologe. Aber meine Prognosen haben nie gestimmt. Und nachdem Creon eines Tages fürchterlich verregnet wurde, hat er mich hier hinauf verbannt.#Jetzt baue ich Nektar und Ambrosia für die Götter an.#Ich darf erst wieder runter, wenn meine Prognosen besser sind.#Du kannst mir sicher helfen.===
+My name is Meteosat.#I was a meteorologist, but my predictions were never correct. One day, Creon got into a terrible rainshower because of me, so he banished me to this isolated place.#Now I'm harvesting nectar and ambrosia for the gods here.#I am only allowed to return once my predictions have gotten better.#Maybe you could help.===
 
 0x1c1e1 0x1c200
 Was sind zum Beispiel 'Cumuli'?
 For example, what are 'cumuli'?
 
+0x1c3c9 0x1c3fe
+1) Nebelbänke#2) eine Wolkenart#3) Sclechtwetterzonen
+1) fog banks#2) a type of cloud#3) bad weather zones
+
 0x1c202 0x1c219
 Und was ist der Monsun?
 And what is a monsoon?
+
+0x1c400 0x1c449
+1) ein Sumpfgebiet#2) tropische Regen- und Trockenzeiten#3) ein Sturmtief
+1) a swamp#2) tropical rain- and drought-seasons#3) a low-pressure system
 
 0x1c21b 0x1c22b
 Was ist Mistral?
 Explain Mistral?
 
+0x1c44b 0x1c4ab
+1) ein kalter Nordwind in Südfrankreich#2) ein tropischer Sturm#3) ein spanisches Wort für Dürre
+1) a cold northern wind in South France#2) a tropical storm#3) a Spanish word for drought
+
 0x1c22d 0x1c242
 Und was sind Isobare?
 And what are isobars?
 
+0x1c4ad 0x1c509
+Linien, die Zonen mit#1) gleichem Luftdruck#2) gleicher Temperatur#3) gleicher Höhe anzeigen
+Lines that show zones with#1) same air pressure#2) same temperature#3) same height
+
 0x1c244 0x1c2c0
 Nein, das stimmt nicht, das weiss ich. Wenn Du mir nicht helfen willst, dann zieh' Leine. Ich kann Dich hier nicht brauchen.
+No, that's not correct, I know that much. If you don't want to help me, then go away. I don't need you here.
 
 0x1c2c2 0x1c324
 Vielen Dank. Das muss ich gleich aufschreiben gehen, sonst vergesse ich das wieder. Warte hier.===
+Many thanks. I'll go write down those answers, before I forget them again. Please wait here.===
 
 0x1c326 0x1c337
 Was ist denn das?
+What is that?
 
 0x1c339 0x1c389
 Hier, nimm soviel Du willst! Endlich kann ich auf die Erde zurück, tausend Dank.
-
-0x1c38b 0x1c3b9
-Moment, ich bin nur ein harmloser Küchenjunge.
-
-0x1c3bb 0x1c3c7
-Wer bist Du?
-
-0x1c3c9 0x1c3fe
-1) Nebelbänke#2) eine Wolkenart#3) Sclechtwetterzonen
-
-0x1c400 0x1c449
-1) ein Sumpfgebiet#2) tropische Regen- und Trockenzeiten#3) ein Sturmtief
-
-0x1c44b 0x1c4ab
-1) ein kalter Nordwind in Südfrankreich#2) ein tropischer Sturm#3) ein spanisches Wort für Dürre
-
-0x1c4ad 0x1c509
-Linien, die Zonen mit#1) gleichem Luftdruck#2) gleicher Temperatur#3) gleicher Höhe anzeigen
+Here, take as much as you need! I can finally return to the surface, thank you.
 
 0x1c50b 0x1c594
 Das ist ein Barometer. Es zeigt Dir an, wie das Wetter wird. Du kannst es behalten, wenn Du mir einen Scheffel Himmelskraut überlässt.===
+This is a barometer. It shows what the weather will be like. You can keep it if you give me some sky herbs in exchange.===
 
 0x1c596 0x1c59e
 Tschilp!
@@ -371,9 +428,11 @@ Peep!
 
 0x1c5b3 0x1c5cc
 Kannst Du mich mitnehmen?
+Can you take me with you?
 
 0x1c5ce 0x1c5eb
 Ich bin auf dem Weg zu Creon.
+I am trying to get to Creon.
 
 0x1c5ed 0x1c614
 Wo geht den hier der Bus nach Atlantis?
@@ -381,85 +440,111 @@ Where can I take the bus to Atlantis?
 
 0x1c616 0x1c674
 Was heisst hier 'tschilp', bist Du noch ganz dicht? Drück Dich gefälligst etwas klarer aus.===
+What is 'cheep' supposed to mean, are you out of your mind? Say what you mean.===
 
 0x1c676 0x1c69c
 Kannst Du Dich nicht klarer fassen?===
+Can't you express yourself better?===
 
 0x1c69e 0x1c6f6
 Piep? Hältst Du uns für bescheuert? Sprich gefälligst normales mesopotamisch mit mir.===
+Peep? Do you think I'm stupid or something? Can't you speak normal mesopotamian?===
 
 0x1c6f8 0x1c72d
 Nee Du, für Anhalter hab' ich keinen Platz. Sorry.===
+Nah, sorry, I don't have space for hitchhikers.===
 
 0x1c72f 0x1c771
 Klar. Und mein Name ist Odysseus. Den Trick kenne ich, Spinner.===
+Sure, and my name is Odysseus. I've seen that old trick before.===
 
 0x1c773 0x1c7c4
 Die nächste Station liegt auf Krakatau, etwa 10000 Kilometer südlich von hier.===
+The next bus station is on Krakatoa, around 10000 kilometers to the south.===
 
 0x1c7c6 0x1c873
 Tja, jetzt sieht die Sache schon besser aus. Für spendable Menschen habe ich immer noch ein Plätzchen frei. Also, fasten your seat belt, ich mehme Dich mit nach Atlantis.===
+Well, that changes the situation. For generous people like you, I always have some spare space available. Alright, fasten your seat belt, I'm taking you to Atlantis.===
 
 0x1c875 0x1c895
 Kannst Du mich zu Creon bringen?
+Can you take me to Creon?
 
 0x1c897 0x1c8b2
 Denkst Du, ich schaffe das?
+Do you think I can make it?
 
 0x1c8b4 0x1c919
 Klar, wenn Du lange genug die Luft anhalten kannst. Der alte Knabe schlummert ziemlich tief unten.===
+Sure, if you can hold your breath for long enough. The old geezer is sleeping pretty far below.===
 
 0x1c91b 0x1c9b0
 Ehrlich gesagt: Nein.#Und helfen kann ich Dir da nicht. Der Delphin-#Transportverband verbietet ausdrücklich Fahrten mit kurzatmigen Nichtkiemern.===
+Honestly: No.#And I can't help you with it either. The dolphin transport association explicitly forbids rides with short-breathed no-gill clients.===
 
 0x1c9b2 0x1c9f5
 Klar, mit dem Zaubertrank packst Du das locker. Komm, steig auf.===
+Sure, with the magic potion that should be no problem. Hop on.===
 
 0x1c9f7 0x1ca5b
 Puh, hab ich 'nen Kater. Das kommt wohl vom vielen Nektar saufen.#Und Zwerge sehe ich auch schon.===
+I've got the worst hangover. I must have had too much nectar.#And I'm seeing gnomes.===
 
 0x1ca5d 0x1ca8e
 Na prächtig. Boss wovon denn? Und wer bist Du?===
+Fantastic. But boss of what? And who are you?===
 
 0x1ca90 0x1cb60
 Donnerschlag nochmal, jetzt dämmerts mir! Istar, die alte Tante, hat mich wohl reingelegt. Und ich hab mich über den Tisch ziehen lassen wie ein Frischling.#Und Mesopotamien? Wie steh'n denn da die Aktien?===
+Ye gods, it's slowly coming back to me! That old witch Istar must have tricked me. And I just let myself be tricked like a complete amateur.#What about Mesopotamia? What's going on up there?===
 
 0x1cb62 0x1cc60
 Tja, Istar hat nun mal keinen grünen Daumen. Aber damit ist ab heute Schluss mein Sohn, das versprech ich Dir. Lass uns unverzüglich aufbrechen. Noch heute will ich meine Rückkehr im ganzen Land verkünden. Und Du sollst mich an meiner Seite begleiten.===
+Well, Istar doesn't really have a green thumb. But I promise you, my son, things will be looking up from here on. Let us depart immediately. Today, my return shall be heralded throughout the lands. And you shall accompany me.===
 
 0x1cc62 0x1cceb
 Oh edler Herrscher des Himmels und der Erde! Der Bann ist gebrochen, der Fluch gelöst. Istar ist besiegt und Ihr seid wieder der Boss.===
+Oh noble ruler of the heaven and the earth! The evil curse has been lifted. Istar is defeated, and you're the boss again.===
 
 0x1cced 0x1cd47
 Gestatten: Knorrli, Küchenbursche aus Uruk. Und Ihr seid Creon der oberste Göttervater.===
+My lord, I am Knorrli, kitchen boy from Uruk. And you are Creon, highest of the gods.===
 
 0x1cd49 0x1cda7
 Oh edler Herr, Dir sei's geklagt: Tod und Verderben regieren die matten Auen meiner Heimat.===
+Oh great lord, hear my lament: Death and despair are reigning over the plains of my home.===
 
 0x1cdaa 0x1ce88
 Plötzlich zerfällt auch die Istar-Chronik in Knorrlis Händen...=====##Ohne dieses Buch kann Knorrli die vor ihm liegenden Aufgaben nicht lösen.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+Suddenly the Istar chronicle crumbles in Knorrli's hands...=====##Without it, Knorrli will not be able to accomplish the tasks that await him.#If only he could find a method to preserve it!===##- The End -=====
 
 0x1ce8a 0x1cf54
 Plötzlich zerfällt das Sprachbuch der Tiere...=====##Ohne dieses Buch kann Knorrli nicht einmal das Geheimarchiv verlassen.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+Suddenly the animal dictionary crumbles...=====##Without this book, Knorrli cannot even get out of the secret archives.#If only he could find a method to preserve it!===##- The End -=====
 
 0x1cf56 0x1d06f
 Langsam zersetzen sich die Istar-Chronik und das Sprachbuch der Tiere...=====##Ohne diese Bücher kann Knorrli die vor ihm liegenden Aufgaben nicht lösen, er kann nicht einmal das Geheimarchiv verlassen.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+The Istar chronicle and the animal dictionary slowly start crumbling...=====##Without them, Knorrli will not be able to accomplish the tasks that await him, and cannot even get out of the secret archives.#If only he could find a method to preserve it!===##- The End -=====
 
 0x1d071 0x1d133
 Plötzlich zerfällt das Sprachbuch der Tiere...=====##Ohne dieses Buch kann Knorrli nicht mehr mit den Tieren reden.#Es müsste sich eine Methode zur Konservierung finden lassen!===##- Ende -=====
+Suddenly the animal dictionary crumbles...=====##Without this book, Knorrli will not be able to talk to animals.#If only he could find a method to preserve it!===##- The End -=====
 
 0x1d135 0x1d1bd
 Leider ist der Bär nicht zur Unterhaltung aufgelegt. Knorrli hat seine letzte Mahlzeit zubereitet. Der Bär verspeist ihn.##- Ende -=====
-Sadly the bear is not in the mood for a nice chat. TODO
+Sadly the bear is not in the mood for a nice chat. Knorrli has had his last meal, and is promptly eaten by the bear.##- The End -=====
 
 0x1d1bf 0x1d22e
 Knorrli wagt sich zu nahe an den Bären heran, der, wie Knorrli nun merkt, grossen Hunger hat ...##- Ende -=====
+Knorrli dares to get too close to the bear, and notices that it seems very hungry ...##- The End -=====
 
 0x1d230 0x1d32a
 Hier haust Tiamat, das Sumpfmonster, das Knorrli beim Betreten seines Reviers sofort entdeckt. Aug' in Aug' mit dem Monster sucht Knorrli verzweifelt nach einem Ausweg.====#Doch leider findet er nichts zum Besänftigen des Ungeheuers...##- Ende -=====
+Here lives Tiamat, the swamp monster, who immediately spots Knorrli as he enters its territory. Under its threatening gaze, Knorrli desperately searches for a way to escape.====#But he fails to find a way to calm the terrifying beast...##- The End -=====
 
 0x1d32c 0x1d3e0
 Einer Hexe sollte man nicht ohne entsprechenden Schutz entgegentreten.==#Der Hexenfluch versteinert Knorrli sofort. Nun dient er als Mahnmal für künftige Besucher...##- Ende -=====
+You should never face a witch without proper protection.==#The witch's curse immediately petrifies Knorrli. Now, he will serve as a warning to future visitors...##- The End -=====
 
 0x1d3e2 0x1d422
 Im Dunkeln stürzen sich die Schakale auf Knorrli.##- Ende -=====
@@ -467,6 +552,7 @@ The jackals fall upon Knorrli in the darkness.##- The End -=====
 
 0x1d424 0x1d53d
 Als Knorrli den magischen Beutel öffnet bricht ein mächtiger Wirbelsturm los und trägt Knorrli weit fort. Nach einer langen Irrfahrt findet er zurück an den Hof des Königs Baal. Hier muss er sich nun von den Strapazen erholem, bevor er sich erneut in das Abenteuer Atlantis stürzt.
+When Knorrli opens the magic bag, a great tornado rushes out and carries him far away. After a long journey, he finds his way back to the court of King Baal. There, he needs to rest for a long while to recover from his travels, before he can attempt the Atlantis adventure again.
 
 0x1d53f 0x1d5a3
 Weiterspielen?#1) Ja, von Anfang an#2) Ja, bei einem gespeicherten Spielstand#3) Nein, Spiel beenden
@@ -474,7 +560,7 @@ Continue?#1) Yes, from the start#2) Yes, from a saved state#3) No, quit game
 
 0x1d5c7 item
 Schneckenschleim
-Snail slime
+Snail Slime
 
 0x1d5e7 item
 Barometer
@@ -482,7 +568,7 @@ Barometer
 
 0x1d607 item
 Papageienzucker
-Parrot sugar
+Parrot Sugar
 
 0x1d627 item
 Feuerstein
@@ -490,11 +576,11 @@ Flintstone
 
 0x1d647 item
 Istar-Chronik
-Istar scroll
+Istar Scroll
 
 0x1d667 item
 Tier-Wörterbuch
-Animal dict.
+Animal Dict.
 
 0x1d687 item
 Honigwabe
@@ -502,10 +588,11 @@ Honeycomb
 
 0x1d6a7 item
 Goldener Kamm
-Golden comb
+Golden Comb
 
 0x1d6c7 item
 Totenpilz
+Deathshroom
 
 0x1d6e7 item
 Mütze
@@ -513,7 +600,7 @@ Cap
 
 0x1d707 item
 Feentränen
-Fairytears
+Fairy Tears
 
 0x1d727 item
 Lebenswurz
@@ -521,10 +608,11 @@ Liferoot
 
 0x1d747 item
 Monsterpilz
+Monstershroom
 
 0x1d767 item
 Vogelbeeren
-Bird berry
+Bird Berries
 
 0x1d787 item
 Windbeutel
@@ -532,11 +620,11 @@ Windbag
 
 0x1d7a7 item
 Zauberstab
-Magic wand
+Magic Wand
 
 0x1d7c7 item
 Kaputter Besen
-Broken broom
+Broken Broom
 
 0x1d7e7 item
 Schlüssel
@@ -548,7 +636,7 @@ Shoes
 
 0x1d827 item
 Goldsack
-Gold bag
+Goldbag
 
 0x1d847 item
 Testament
@@ -560,11 +648,11 @@ Key
 
 0x1d887 item
 Einhorn-Horn
-Unicorn horn
+Unicorn Horn
 
 0x1d8a7 item
 Teile des Kreuzes
-Pieces of a cross
+Pieces of a Cross
 
 0x1d8c7 item
 Rubin
@@ -572,15 +660,15 @@ Ruby
 
 0x1d8e7 item
 Heiliges Wasser
-Holy water
+Holy Water
 
 0x1d907 item
 Ritualmesser
-Ritual knife
+Ritual Knife
 
 0x1d927 item
 Goldene Schale
-Golden chalice
+Golden Chalice
 
 0x1d947 item
 Diamant
@@ -600,10 +688,12 @@ Worm
 
 0x1d9c7 item
 Himmelskraut
-Skyherbs
+Sky Herbs
+# Heaven's herbs?
 
 0x1d9e7 item
 Muschel
+Conch
 
 0x1da07 item
 Liane
@@ -619,10 +709,11 @@ Firewood
 
 0x1da67 item
 Trümmer
+Fragments
 
 0x1da87 item
 leere Flasche
-empty bottle
+Empty Bottle
 
 0x1daa7 item
 Fackel
@@ -630,7 +721,7 @@ Torch
 
 0x1dac7 item
 Einhorn-Löffel
-Unicorn spoon
+Unicorn Spoon
 
 0x1dae7 item
 Kröte
@@ -642,7 +733,7 @@ Potion
 
 0x1db27 item
 Angel
-Rod
+Fishing Rod
 
 0x1db47 item
 Fische
@@ -650,7 +741,7 @@ Fish
 
 0x1db67 item
 Angel mit Köder
-Rod with bait
+Rod with Bait
 
 0x1db87 item
 Kreuz
@@ -658,4 +749,4 @@ Cross
 
 0x1dba7 item
 Besen mit Wachs
-Broom with wax
+Broom with Wax

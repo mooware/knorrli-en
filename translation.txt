@@ -1,12 +1,11 @@
 # translation notes:
 # "#" - line break, not my invention, the game does it like that already
-# "=" - also some kind of non-printable special sign, not sure what it does, could be a pause
+# "=" - also some kind of non-printable special sign, probably a pause
 # "Zweistromland" - not sure there's a good equivalent, so I'll probably go with "Mesopotamia" most of the time
 # "Himmelskraut" - heavenly herbs? a bit too long for item names probably. sky herb(s)?
 #
 # I don't know where the size of the textboxes is coming from, it seems that they're fixed.
 # So sometimes the text just goes out of the bounds of the textbox, and needs manual rewriting to fit.
-# TODO: french text isn't working right? different codepage?
 #
 # If the game crashes after Charon's room, check if you have the file "KNOLAND.CMF", and if not, rename "KNOLAND1.CMF" to that.
 

@@ -1,7 +1,7 @@
 # NOTES:
 # main text: from 0x19618 to 0x1D5A2 (terminated by 0x2B 0x00)
 # item names: from 0x1D5C7 to 0x1DBB7, starting every 0x20 bytes, max len at least 0x10
-# TODO: 0x18F70 for save/load text?
+# 0x18F70 for save/load text
 #
 # text in the game uses codepage 850 (DOS-Latin-1, "cp850" in python)
 # and represents line breaks with '#'.
@@ -37,7 +37,7 @@ def apply_line(target_file, from_address, to_address, line, is_item=False):
     target_file.write(enc_line)
 
 def apply_translations(translation_file_path, target_file_path):
-    with open(translation_file_path, 'r') as tr:
+    with open(translation_file_path, 'r', encoding='utf8') as tr:
         with open(target_file_path, 'r+b') as tgt:
             # avoid trailing newlines
             lines = [s.rstrip() for s in tr.readlines()]

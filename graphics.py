@@ -1,9 +1,6 @@
 import sys, struct
 from PIL import Image
 
-# NOTE: these functions only work for some of the files,
-# I assume only for normal static images and not e.g. animations
-
 def rgb(b1, b2, b3):
     return b1 | (b2 << 8) | (b3 << 16)
 
@@ -19,8 +16,9 @@ def has_palette(filename):
     with open(filename, 'rb') as f:
         # not sure if this is reliable but the non-palette files start with width/height,
         # and the palette files start with the palette, which hopefully always starts with 0
-        data = f.read(1)
-        return data[0] == 0
+        data = f.read(3)
+        # if either of the width/height fields is zero, we're assuming it's a palette
+        return data[0] == 0 or data[2] == 0
 
 def gra_to_png(filename, palette_file=None):
     """Convert a .gra file from Abenteuer Atlantis to PNG"""
@@ -61,7 +59,7 @@ def gra_to_png(filename, palette_file=None):
 
         img.save(filename + '.png')
 
-def png_to_gra(filename, old_filename=None):
+def png_to_gra(filename, old_filename=None, write_palette=True):
     """Convert a PNG to a .gra file from Abenteuer Atlantis"""
     img = Image.open(filename).convert(mode='RGB')
     palette_map = {}
@@ -69,7 +67,8 @@ def png_to_gra(filename, old_filename=None):
         # optionally, use and enforce an existing palette
         if old_filename:
             with open(old_filename, 'rb') as of:
-                f.write(of.read(256 * 3))
+                if write_palette:
+                    f.write(of.read(256 * 3))
                 of.seek(0)
                 old_palette = read_palette(of)
                 for i in range(len(old_palette)):
@@ -79,8 +78,9 @@ def png_to_gra(filename, old_filename=None):
             palette_map[0x0] = 0
             palette_map[0xFFFFFF] = 255
             # write an empty palette first to reserve space, then fill it in later
-            for i in range(256):
-                f.write(b'\x00\x00\x00')
+            if write_palette:
+                for i in range(256):
+                    f.write(b'\x00\x00\x00')
         # size in little endian
         f.write(struct.pack('<HH', img.width, img.height))
         # now for the hard part, run length encoding
@@ -128,7 +128,7 @@ def png_to_gra(filename, old_filename=None):
                     f.write(bytes([enc_len]))
                     f.write(bytes(pixels))
         # write the new palette if it wasn't just copied from the old file
-        if not old_filename:
+        if write_palette and not old_filename:
             f.seek(0)
             palette = [0] * 256
             for k in sorted(palette_map.keys()):
@@ -147,6 +147,7 @@ if __name__ == '__main__':
         print("decoding image without palette", sys.argv[2])
         gra_to_png(sys.argv[2], sys.argv[3])
     elif sys.argv[1] == 'decode_auto':
+        # note that this fails for one file (GGR12_.GRA) because of its palette
         print("decoding image with palette detection", sys.argv[2])
         has = has_palette(sys.argv[2])
         print('palette found?', has)
@@ -154,4 +155,7 @@ if __name__ == '__main__':
     elif sys.argv[1] == 'encode_pal':
         template = sys.argv[3] if len(sys.argv) > 3 else None
         print("encoding image with palette", sys.argv[2])
-        png_to_gra(sys.argv[2], template)
+        png_to_gra(sys.argv[2], template, write_palette=True)
+    elif sys.argv[1] == 'encode':
+        print("encoding image without palette", sys.argv[2])
+        png_to_gra(sys.argv[2], sys.argv[3], write_palette=False)

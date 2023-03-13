@@ -14,11 +14,24 @@ def read_palette(stream):
         palette.append(rgb(b1, b2, b3))
     return palette
 
-def gra_to_png(filename):
+def has_palette(filename):
+    """Try to determine if the given .gra file has a palette"""
+    with open(filename, 'rb') as f:
+        # not sure if this is reliable but the non-palette files start with width/height,
+        # and the palette files start with the palette, which hopefully always starts with 0
+        data = f.read(1)
+        return data[0] == 0
+
+def gra_to_png(filename, palette_file=None):
     """Convert a .gra file from Abenteuer Atlantis to PNG"""
     with open(filename, 'rb') as f:
-        # first the palette, with 256 x 3 bytes
-        palette = read_palette(f)
+        # some files don't have a palette, use another file to provide it
+        if palette_file:
+            with open(palette_file, 'rb') as pf:
+                palette = read_palette(pf)
+        else:
+            # first the palette, with 256 x 3 bytes
+            palette = read_palette(f)
         # after palette comes image size, width and height 2B LE each
         data = f.read(4)
         width, height = struct.unpack('<HH', data)
@@ -127,10 +140,18 @@ def png_to_gra(filename, old_filename=None):
                 f.write(bytes([b1, b2, b3]))
 
 if __name__ == '__main__':
-    if sys.argv[1] == 'decode':
-        print("decoding", sys.argv[2])
+    if sys.argv[1] == 'decode_pal':
+        print("decoding image with palette", sys.argv[2])
         gra_to_png(sys.argv[2])
-    elif sys.argv[1] == 'encode':
+    elif sys.argv[1] == 'decode':
+        print("decoding image without palette", sys.argv[2])
+        gra_to_png(sys.argv[2], sys.argv[3])
+    elif sys.argv[1] == 'decode_auto':
+        print("decoding image with palette detection", sys.argv[2])
+        has = has_palette(sys.argv[2])
+        print('palette found?', has)
+        gra_to_png(sys.argv[2], None if has else sys.argv[3])
+    elif sys.argv[1] == 'encode_pal':
         template = sys.argv[3] if len(sys.argv) > 3 else None
-        print("encoding", sys.argv[2])
+        print("encoding image with palette", sys.argv[2])
         png_to_gra(sys.argv[2], template)
